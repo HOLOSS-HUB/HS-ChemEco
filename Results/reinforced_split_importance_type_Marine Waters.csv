@@ -1,0 +1,1534 @@
+Target,Feature,Mean_Importance,Std_Importance
+Lower,BalabanJ,0.011388679386701477,0.0018100028794421769
+Lower,BertzCT,0.012870284749370468,0.0033055521361727547
+Lower,Chi0,0.004784532472476726,0.0027096372503913253
+Lower,Chi0n,0.014056222306413848,0.0027525749360013977
+Lower,Chi0v,0.01839743720147398,0.005826429034016415
+Lower,Chi1,0.002419211252015677,0.0010698079982132014
+Lower,Chi1n,0.00290646848441297,0.0007502138935548097
+Lower,Chi1v,0.003232220811965574,0.0005122721405322288
+Lower,Chi2n,0.011417951434746863,0.0023268352852505625
+Lower,Chi2v,0.00724271861356096,0.0017278995955258567
+Lower,Chi3n,0.011871706928587349,0.01875404664427552
+Lower,Chi3v,0.007061044092197747,0.00343255971218064
+Lower,Chi4n,0.007784175380362788,0.0028176105410852655
+Lower,Chi4v,0.016590293697450978,0.005807077388847033
+Lower,Class_Alkaline earth metal oxoanionic compounds,0.0,0.0
+Lower,Class_Alkyl halides,0.00526292531339556,0.0032622664481502914
+Lower,"Class_Allyl-type 1,3-dipolar organic compounds",0.0,0.0
+Lower,Class_Anthracenes,6.70219243188012e-05,4.377515008674023e-05
+Lower,Class_Aziridines,0.0,0.0
+Lower,Class_Azobenzenes,0.0,0.0
+Lower,Class_Azoles,5.353950125144874e-06,9.07116013125251e-06
+Lower,Class_Azolidines,0.0,0.0
+Lower,Class_Benzene and substituted derivatives,0.00025864341983358356,0.00011914667738508073
+Lower,Class_Benzimidazoles,3.221882859800391e-06,3.531711043583094e-06
+Lower,"Class_Benzo-1,2,3-triazines",2.807546405683812e-05,3.397257371018754e-05
+Lower,Class_Benzodioxins,0.0,0.0
+Lower,Class_Benzodioxoles,0.0,0.0
+Lower,Class_Benzofurans,0.0,0.0
+Lower,Class_Benzothiazoles,7.617050619166669e-07,1.179483643733496e-06
+Lower,Class_Carboximidic acids and derivatives,0.0,0.0
+Lower,Class_Carboxylic acids and derivatives,2.1702593914116995e-06,3.5993930298815015e-06
+Lower,Class_Coumarins and derivatives,0.0,0.0
+Lower,Class_Diazines,8.967775791723767e-07,2.9781765783458792e-06
+Lower,Class_Dioxanes,0.0,0.0
+Lower,Class_Dithiocarbamic acids and derivatives,0.0,0.0
+Lower,Class_Epoxides,0.0,0.0
+Lower,Class_Fatty Acyls,2.574843293733874e-05,1.7661774728498204e-05
+Lower,Class_Fluorenes,0.0,0.0
+Lower,Class_Halohydrins,0.0,0.0
+Lower,Class_Heteroaromatic compounds,0.0,0.0
+Lower,Class_Homogeneous actinide compounds,0.0006012930048708708,0.0005819887517902564
+Lower,Class_Homogeneous alkaline earth metal compounds,0.0004887043650407747,0.0002905381747675837
+Lower,Class_Homogeneous metalloid compounds,0.0032247906729534906,0.0018160108696273596
+Lower,Class_Homogeneous other non-metal compounds,2.778991573256821e-05,1.9599195127674377e-05
+Lower,Class_Homogeneous post-transition metal compounds,0.0009737679228228709,0.0004920597854891927
+Lower,Class_Homogeneous transition metal compounds,0.0003292027313215849,0.0001675183309677119
+Lower,Class_Homoisoflavonoids,0.0,0.0
+Lower,Class_Imidazopyrimidines,0.0,0.0
+Lower,Class_Isobenzofurans,0.0,0.0
+Lower,Class_Isoindoles and derivatives,4.063261413936864e-05,4.647730204106128e-05
+Lower,Class_Isoquinolines and derivatives,0.0,0.0
+Lower,Class_Lactones,0.0,0.0
+Lower,Class_Metalloid organides,0.0,0.0
+Lower,Class_Naphthalenes,8.022719138442898e-05,3.919630131867214e-05
+Lower,Class_Organic dithiophosphoric acids and derivatives,3.048431476315632e-06,2.4068593581774673e-06
+Lower,Class_Organic metal salts,0.0,0.0
+Lower,Class_Organic oxoanionic compounds,1.89812289151311e-05,1.743207661873059e-05
+Lower,Class_Organic phosphonic acids and derivatives,7.286849969351271e-06,1.7773369779917052e-05
+Lower,Class_Organic phosphoric acids and derivatives,1.4880309204891485e-05,1.0618571803668837e-05
+Lower,Class_Organic sulfuric acids and derivatives,0.0,0.0
+Lower,Class_Organic thiophosphoric acids and derivatives,4.203619993102575e-05,2.6415243572410485e-05
+Lower,Class_Organo-post-transition metal compounds,0.0,0.0
+Lower,Class_Organobromides,0.0,0.0
+Lower,Class_Organochlorides,0.0008142792816032902,0.00043126266414432153
+Lower,Class_Organofluorides,0.0,0.0
+Lower,Class_Organometalloid compounds,0.00010389329420714117,0.0001520719607040389
+Lower,Class_Organonitrogen compounds,1.1623701083027748e-06,1.839612057838009e-06
+Lower,Class_Organooxygen compounds,0.0,0.0
+Lower,Class_Oxanes,6.288563368031043e-05,3.375693249763642e-05
+Lower,Class_Oxathiolanes,0.0,0.0
+Lower,Class_Oxazinanes,0.0,0.0
+Lower,Class_Oxepanes,0.0,0.0
+Lower,Class_Phenanthrenes and derivatives,0.0016277403101404347,0.0007878299386082811
+Lower,Class_Phenol esters,0.0,0.0
+Lower,Class_Phenol ethers,2.118435208615683e-06,4.902583922740549e-06
+Lower,Class_Phenols,6.214827796750234e-05,3.0299010980576365e-05
+Lower,Class_Prenol lipids,2.016459400630245e-05,1.84997291710779e-05
+Lower,Class_Pyrenes,6.16944017937279e-05,7.792144623412799e-05
+Lower,Class_Pyridines and derivatives,0.0,0.0
+Lower,Class_Pyrrolidines,0.0,0.0
+Lower,Class_Quinolines and derivatives,0.0,0.0
+Lower,Class_Saturated hydrocarbons,0.0,0.0
+Lower,Class_Tetrahydrofurans,0.0,0.0
+Lower,Class_Thioamides,0.0,0.0
+Lower,Class_Thioethers,0.0,0.0
+Lower,Class_Triazines,1.938161870073087e-05,5.3800144369080736e-05
+Lower,Class_Unsaturated hydrocarbons,0.0,0.0
+Lower,Class_Vinyl halides,0.0016281519276840574,0.0006887858344678534
+Lower,ClassyFy Status_Completed,0.0003444223506666006,0.00019456955671773578
+Lower,ClassyFy Status_Not Found,0.0,0.0
+Lower,EState_VSA1,0.002677521882829061,0.0010696386580646765
+Lower,EState_VSA10,0.0007211273253787163,0.00033933211425144156
+Lower,EState_VSA11,0.0,0.0
+Lower,EState_VSA2,0.01253696293784381,0.002240464620733466
+Lower,EState_VSA3,0.0021707780172748933,0.0006841047251190127
+Lower,EState_VSA4,0.004394775785064567,0.001227953443316009
+Lower,EState_VSA5,0.0026404103842600207,0.0006438255791830339
+Lower,EState_VSA6,0.0027772636137001487,0.0010049385002963273
+Lower,EState_VSA7,0.00240564741061212,0.0009770373024030924
+Lower,EState_VSA8,0.007475786923477947,0.0017165241496664763
+Lower,EState_VSA9,0.016252859369993416,0.006711189291998129
+Lower,HallKierAlpha,0.015611661968686475,0.002618777100558441
+Lower,HeavyAtomCount,0.0017498183769250712,0.0006955134044811756
+Lower,HeavyAtomMolWt,0.11463041372487594,0.02574819025921479
+Lower,Kappa1,0.010668134143889575,0.0022748391159516704
+Lower,Kappa2,0.028600609160573706,0.006969301147574522
+Lower,Kappa3,0.027593344810123915,0.0031558496531628086
+Lower,Kingdom_Inorganic compounds,4.351263872208664e-05,2.3672945917652965e-05
+Lower,Kingdom_Organic compounds,0.00016667282431992892,6.828233353554705e-05
+Lower,MaxAbsEStateIndex,0.003249110067757394,0.0005673219067242544
+Lower,MaxAbsPartialCharge,0.0042698463060536224,0.0006842061645612816
+Lower,MaxEStateIndex,0.003144523385168708,0.000699235495092638
+Lower,MaxPartialCharge,0.004832835330864074,0.0010408492306543888
+Lower,MinAbsEStateIndex,0.006740939383195252,0.0012599290354858772
+Lower,MinAbsPartialCharge,0.004902384173787528,0.001074306392826436
+Lower,MinEStateIndex,0.006223453701694759,0.0008408786327742692
+Lower,MinPartialCharge,0.0034241913635169757,0.0004209859017405114
+Lower,MolLogP,0.02779055961068332,0.00786477429682449
+Lower,MolMR,0.01566463864770948,0.003909327482310341
+Lower,MolWt,0.10553320720094109,0.02913448909845918
+Lower,NHOHCount,0.00046513150039749024,0.00018671484269345434
+Lower,NOCount,0.00040766782805203716,0.00018973034970889705
+Lower,NumAliphaticCarbocycles,0.0007456652082342421,0.0003138830573053803
+Lower,NumAliphaticHeterocycles,5.114661603523845e-05,5.70552663933867e-05
+Lower,NumAliphaticRings,0.001014696474845274,0.0004125591318519972
+Lower,NumAromaticCarbocycles,0.0010725755938125934,0.00032804061057859163
+Lower,NumAromaticHeterocycles,0.00021158780798123935,0.0001090521586509715
+Lower,NumAromaticRings,0.0013634350033056503,0.00043155257343018813
+Lower,NumHAcceptors,0.001112694342587819,0.00031456599513207255
+Lower,NumHDonors,0.0005359197426677877,0.00023536961090098846
+Lower,NumHeteroatoms,0.001477919723892844,0.0005091811694461823
+Lower,NumRadicalElectrons,0.005264371526288156,0.0012912630738041648
+Lower,NumRotatableBonds,0.002014397290939969,0.0003213825634428727
+Lower,NumSaturatedCarbocycles,0.005102008869498816,0.0016701191529280692
+Lower,NumSaturatedHeterocycles,6.247155303732331e-05,3.76710414681835e-05
+Lower,NumSaturatedRings,0.010471033967180849,0.003496889090523329
+Lower,NumValenceElectrons,0.011612609910559924,0.0034706595864875288
+Lower,PEOE_VSA1,0.0016054746727382871,0.0004731826890218511
+Lower,PEOE_VSA10,0.0018051039575716272,0.00043501812476082034
+Lower,PEOE_VSA11,0.0012847660794105642,0.0005203521587458858
+Lower,PEOE_VSA12,0.0003469604200524012,0.00016282422216176893
+Lower,PEOE_VSA13,0.0004848010222691128,0.00013712452438429705
+Lower,PEOE_VSA14,0.0020147264880805826,0.0012134667384562862
+Lower,PEOE_VSA2,0.001224502561992271,0.0004366985497427001
+Lower,PEOE_VSA3,0.0021980380567030748,0.0007449144356268097
+Lower,PEOE_VSA4,0.0004318308103147543,0.000194420097666386
+Lower,PEOE_VSA5,0.004462334642665317,0.0018556573551676062
+Lower,PEOE_VSA6,0.031086091611495923,0.015964770606976
+Lower,PEOE_VSA7,0.023070470180912364,0.005673793763146331
+Lower,PEOE_VSA8,0.00809466342922092,0.0016632423413225656
+Lower,PEOE_VSA9,0.011233372249776902,0.00322647757455144
+Lower,"Parent Level 1_1,4-dioxanes",0.0,0.0
+Lower,Parent Level 1_1-hydroxy-2-unsubstituted benzenoids,1.732954812848721e-05,2.658152574350861e-05
+Lower,Parent Level 1_2-benzimidazolylcarbamic acid esters,5.692223764644199e-06,7.497915613156402e-06
+Lower,Parent Level 1_2-phenoxypropionic acid esters,0.0,0.0
+Lower,Parent Level 1_2-phenoxypropionic acids,0.0032438470292782866,0.0019364314637920483
+Lower,Parent Level 1_8-hydroxyquinolines,0.0,0.0
+Lower,Parent Level 1_Acridines,0.0,0.0
+Lower,Parent Level 1_Acrylic acids and derivatives,0.0,0.0
+Lower,Parent Level 1_Acyclic olefins,0.0,0.0
+Lower,Parent Level 1_Aldehydes,0.0,0.0
+Lower,Parent Level 1_Alkaline earth metal silicates,0.0,0.0
+Lower,Parent Level 1_Alkanes,0.0,0.0
+Lower,Parent Level 1_Alkanolamines,0.0,0.0
+Lower,Parent Level 1_Alkyl phosphates,1.5810534026607894e-05,8.235655682728649e-06
+Lower,Parent Level 1_Alkylhydrazines,0.0,0.0
+Lower,"Parent Level 1_Alpha,beta-unsaturated carbonyl compounds",0.0,0.0
+Lower,Parent Level 1_Amino acids and derivatives,0.0,0.0
+Lower,Parent Level 1_Aminophenyl ethers,0.0,0.0
+Lower,Parent Level 1_Aminotoluenes,0.0,0.0
+Lower,Parent Level 1_Aminotriazines,3.316212504904201e-05,5.77633810871526e-05
+Lower,Parent Level 1_Anilides,1.4943885136517555e-05,2.019464615037448e-05
+Lower,Parent Level 1_Aniline and substituted anilines,1.1107173357377624e-05,1.571154777994607e-05
+Lower,Parent Level 1_Anisoles,0.0,0.0
+Lower,Parent Level 1_Anthracenes,6.633567721384011e-05,3.3331111779940674e-05
+Lower,Parent Level 1_Anthraquinones,0.0,0.0
+Lower,Parent Level 1_Aralkylamines,0.0,0.0
+Lower,Parent Level 1_Aryl phosphates,0.0,0.0
+Lower,Parent Level 1_Aryl thiophosphates,5.530726912381542e-05,2.6197137418821463e-05
+Lower,Parent Level 1_Aziridines,0.0,0.0
+Lower,Parent Level 1_Azobenzenes,0.0,0.0
+Lower,Parent Level 1_Benzene and substituted derivatives,5.86763776267974e-05,3.083559718861011e-05
+Lower,Parent Level 1_Benzenoids,1.5469896729362414e-06,3.371660097887548e-06
+Lower,Parent Level 1_Benzidines,0.0,0.0
+Lower,Parent Level 1_Benzodioxoles,0.0,0.0
+Lower,Parent Level 1_Benzofuranones,0.0,0.0
+Lower,Parent Level 1_Benzoic acid esters,6.035473579311193e-05,8.620696894943132e-05
+Lower,Parent Level 1_Benzophenones,0.0,0.0
+Lower,Parent Level 1_Benzopyrenes,5.760033675948169e-05,5.0129609079455255e-05
+Lower,Parent Level 1_Benzothiazoles,8.445351035683011e-07,1.715070116221743e-06
+Lower,Parent Level 1_Benzotriazine organothiophosphates,2.1422347656304314e-05,2.1742981802135213e-05
+Lower,Parent Level 1_Benzyl chlorides,3.486603888484513e-05,1.8794560400474045e-05
+Lower,Parent Level 1_Beta propiolactones,0.0,0.0
+Lower,Parent Level 1_Bicyclic monoterpenoids,0.0,0.0
+Lower,Parent Level 1_Biphenyls and derivatives,0.0,0.0
+Lower,Parent Level 1_Bisphenols,0.0,0.0
+Lower,Parent Level 1_Branched alkanes,0.0,0.0
+Lower,Parent Level 1_Branched unsaturated hydrocarbons,0.0,0.0
+Lower,Parent Level 1_Bromodiphenyl ethers,0.0,0.0
+Lower,Parent Level 1_Bromohydrins,0.0,0.0
+Lower,Parent Level 1_C-nitro compounds,0.0,0.0
+Lower,Parent Level 1_Carbonyl compounds,0.0,0.0
+Lower,Parent Level 1_Carboximidic acids,0.0,0.0
+Lower,Parent Level 1_Carboximidic acids and derivatives,0.0,0.0
+Lower,Parent Level 1_Carboxylic acid amides,2.88590178818804e-06,6.443492552302658e-06
+Lower,Parent Level 1_Carboxylic acid esters,0.0,0.0
+Lower,Parent Level 1_Catechols,0.0,0.0
+Lower,Parent Level 1_Chlorinated biphenyls,0.0,0.0
+Lower,Parent Level 1_Chlorinated dibenzofurans,0.0,0.0
+Lower,Parent Level 1_Chlorobenzenes,0.0048818133936380645,0.00132582475764332
+Lower,Parent Level 1_Chlorohydrins,0.0,0.0
+Lower,Parent Level 1_Chloronaphthalenes,0.0,0.0
+Lower,Parent Level 1_Chlorophenols,3.270268318748823e-05,2.6479795666786392e-05
+Lower,Parent Level 1_Chlorophenoxyacetates,4.8092984402868605e-06,9.367987340198095e-06
+Lower,Parent Level 1_Coumarins and derivatives,0.0,0.0
+Lower,Parent Level 1_Cumenes,0.0,0.0
+Lower,Parent Level 1_Cyclic olefins,0.0,0.0
+Lower,Parent Level 1_Cycloalkanes,0.0,0.0
+Lower,Parent Level 1_Cyclohexyl halides,4.785297025266093e-05,2.5569198809559234e-05
+Lower,Parent Level 1_Dialkyl alkylphosphonates,2.918429827631909e-06,5.234298580788642e-06
+Lower,Parent Level 1_Dialkyl ethers,0.0,0.0
+Lower,Parent Level 1_Diarylthioethers,0.0,0.0
+Lower,Parent Level 1_Dibenzo-p-dioxins,0.0,0.0
+Lower,Parent Level 1_Dinitroanilines,1.495837512205647e-05,3.472299916064162e-05
+Lower,Parent Level 1_Dinitrophenols,0.0,0.0
+Lower,Parent Level 1_Diphenylethers,4.6670424696670164e-05,3.089016152823699e-05
+Lower,Parent Level 1_Diphenylmethanes,4.981808214872408e-05,9.673875144723065e-05
+Lower,Parent Level 1_Dithiocarbamic acid esters,0.0,0.0
+Lower,Parent Level 1_Dithiophosphate O-esters,7.378372339734435e-06,6.255020674584054e-06
+Lower,Parent Level 1_Epoxides,0.0,0.0
+Lower,Parent Level 1_Ethylene bisdithiocarbamates,0.0,0.0
+Lower,Parent Level 1_Fatty acid esters,1.5775888503700383e-05,1.639032134724697e-05
+Lower,Parent Level 1_Fluorenes,0.0,0.0
+Lower,Parent Level 1_Gamma sultones,0.0,0.0
+Lower,Parent Level 1_Halo-S-triazines,4.598651368882773e-06,5.477583543034351e-06
+Lower,Parent Level 1_Halomethanes,0.0007852964358401683,0.00039550472973889363
+Lower,Parent Level 1_Heteroaromatic compounds,0.0,0.0
+Lower,Parent Level 1_Homogeneous actinide compounds,0.0005155154160131891,0.0004703299689631463
+Lower,Parent Level 1_Homogeneous alkaline earth metal compounds,0.0005267463240858117,0.00029743884265283555
+Lower,Parent Level 1_Homogeneous metalloid compounds,0.003493021702328002,0.00191342890694373
+Lower,Parent Level 1_Homogeneous other non-metal compounds,3.0010948564211047e-05,3.1258081736498596e-05
+Lower,Parent Level 1_Homogeneous post-transition metal compounds,0.0008965461210299521,0.0004400780761489918
+Lower,Parent Level 1_Homogeneous transition metal compounds,0.0002731370807489969,0.0001414873143889089
+Lower,Parent Level 1_Homoisoflavones,0.0,0.0
+Lower,Parent Level 1_Imidazoles,0.0,0.0
+Lower,Parent Level 1_Imidazolidines,0.0,0.0
+Lower,Parent Level 1_Isobenzofurans,0.0,0.0
+Lower,Parent Level 1_Isoindolones,6.0229962257837575e-05,6.413554796787116e-05
+Lower,Parent Level 1_Isoquinolines and derivatives,0.0,0.0
+Lower,Parent Level 1_Ketoximes,0.0,0.0
+Lower,Parent Level 1_Medium-chain fatty acids,0.0,0.0
+Lower,Parent Level 1_Metal p-nitrophenoxides,0.0,0.0
+Lower,Parent Level 1_Metalloid oxides,0.0,0.0
+Lower,Parent Level 1_Methylthio-s-triazines,0.0008968500065160099,0.0006878533102973022
+Lower,Parent Level 1_Monoterpenoids,1.0659074626054145e-05,8.12114940281247e-06
+Lower,Parent Level 1_Morpholines,0.0,0.0
+Lower,Parent Level 1_N-alkylpyrrolidines,0.0,0.0
+Lower,Parent Level 1_N-phenylureas,8.081257035501942e-06,7.372273807740856e-06
+Lower,Parent Level 1_Naphthalenes,8.493803758620836e-05,3.125106810852902e-05
+Lower,Parent Level 1_Nitriles,0.0,0.0
+Lower,Parent Level 1_Nitrobenzenes,0.0,0.0
+Lower,Parent Level 1_Nitroguanidines,4.698039842630031e-07,8.099515608563268e-07
+Lower,Parent Level 1_Nitronaphthalenes,0.0,0.0
+Lower,Parent Level 1_Nitrophenols,0.0,0.0
+Lower,Parent Level 1_Nitrophenyl ethers,0.0,0.0
+Lower,Parent Level 1_Nitrotoluenes,0.0,0.0
+Lower,Parent Level 1_Organic N-nitroso compounds,0.0,0.0
+Lower,Parent Level 1_Organic O-nitroso compounds,0.0,0.0
+Lower,Parent Level 1_Organic metal halides,0.0,0.0
+Lower,Parent Level 1_Organic phosphoramides,0.0,0.0
+Lower,Parent Level 1_Organo-post-transition metal compounds,0.0,0.0
+Lower,Parent Level 1_Organobromides,0.0,0.0
+Lower,Parent Level 1_Organochlorides,0.0007722265380178111,0.00036836202130036003
+Lower,Parent Level 1_Organofluorides,0.0,0.0
+Lower,Parent Level 1_Organoheterosilanes,0.00013253850581301655,0.00016246900785201992
+Lower,Parent Level 1_Oxanes,4.972186030054424e-05,2.4253171227975324e-05
+Lower,Parent Level 1_Oxepanes,0.0,0.0
+Lower,Parent Level 1_P-terphenyls,0.0,0.0
+Lower,Parent Level 1_Pentacarboxylic acids and derivatives,0.0,0.0
+Lower,Parent Level 1_Pentavalent organic arsenic compounds,0.0,0.0
+Lower,Parent Level 1_Phenanthrenes and derivatives,0.0016851957238460669,0.000789725980160121
+Lower,Parent Level 1_Phenanthridines and derivatives,0.0,0.0
+Lower,Parent Level 1_Phenol esters,0.0,0.0
+Lower,Parent Level 1_Phenol ethers,2.62632865139388e-06,6.513693414242558e-06
+Lower,Parent Level 1_Phenoxides,0.0,0.0
+Lower,Parent Level 1_Phenoxy compounds,6.402131945781251e-06,1.1672745140386135e-05
+Lower,Parent Level 1_Phenyl phenylphosphonothioates,0.0,0.0
+Lower,Parent Level 1_Phenylcarbamic acid esters,3.450526112049607e-06,4.075163816851371e-06
+Lower,Parent Level 1_Phenylhydrazines,0.0,0.0
+Lower,Parent Level 1_Phenylnaphthalenes,0.0,0.0
+Lower,Parent Level 1_Phenylpropanes,2.3953429607868756e-05,2.7925842580569417e-05
+Lower,Parent Level 1_Phenylpyrrolidines,0.0,0.0
+Lower,Parent Level 1_Phenyltriazoles,4.2271959298876184e-06,5.009176626070734e-06
+Lower,Parent Level 1_Primary alcohols,0.0,0.0
+Lower,Parent Level 1_Primary amines,0.0,0.0
+Lower,Parent Level 1_Pyrenes,0.0,0.0
+Lower,Parent Level 1_Pyrethroids,0.00014802205395277596,0.00013989806790745636
+Lower,Parent Level 1_Pyridazinones,3.4759916579532884e-07,8.402151048435003e-07
+Lower,Parent Level 1_Quinolines and derivatives,0.0,0.0
+Lower,Parent Level 1_Sulfanylbenzoic acids and derivatives,0.0,0.0
+Lower,Parent Level 1_Sulfite esters,1.1889304842553308e-05,1.4467050061520295e-05
+Lower,Parent Level 1_Sulfuric acid diesters,0.0,0.0
+Lower,Parent Level 1_Tertiary amines,1.1825496769763926e-06,1.5755383922303535e-06
+Lower,Parent Level 1_Tetraalkylammonium salts,0.0,0.0
+Lower,Parent Level 1_Tetrahydrofurans,0.0,0.0
+Lower,Parent Level 1_Tetrahydropyridines,0.0,0.0
+Lower,Parent Level 1_Tetraorganolead compounds,0.0,0.0
+Lower,Parent Level 1_Tetraorganotin compounds,0.0,0.0
+Lower,Parent Level 1_Thioamides,0.0,0.0
+Lower,Parent Level 1_Trifluoromethylbenzenes,0.0,0.0
+Lower,Parent Level 1_Trihalomethanes,8.680354504521147e-05,3.577060042878222e-05
+Lower,Parent Level 1_Triorganotin compounds,0.0,0.0
+Lower,Parent Level 1_Vinyl bromides,0.0,0.0
+Lower,Parent Level 1_Vinyl chlorides,0.0015227531184724738,0.0009655497202895186
+Lower,Parent Level 1_Vinyl fluorides,0.0,0.0
+Lower,Parent Level 1_Xanthines,0.0,0.0
+Lower,Parent Level 1_m-Xylenes,2.3623718884643448e-05,2.2764343900308493e-05
+Lower,Parent Level 1_o-Xylenes,9.511688343877006e-06,1.2813169774994631e-05
+Lower,Parent Level 1_p-Xylenes,1.2383797523326474e-05,1.4947340339845642e-05
+Lower,"Parent Level 2_1,2-aminoalcohols",0.0,0.0
+Lower,"Parent Level 2_3,3'-disubstituted benzidines",0.0,0.0
+Lower,Parent Level 2_Alkadienes,0.0,0.0
+Lower,Parent Level 2_Alpha amino acids and derivatives,0.0,0.0
+Lower,"Parent Level 2_Alpha,beta-unsaturated aldehydes",0.0,0.0
+Lower,Parent Level 2_Alpha-hydrogen aldehydes,0.0,0.0
+Lower,Parent Level 2_Aryl phosphotriesters,0.0,0.0
+Lower,Parent Level 2_Benzacridines,0.0,0.0
+Lower,Parent Level 2_Carbamic acids and derivatives,0.0,0.0
+Lower,Parent Level 2_Chlorinated dibenzo-p-dioxins,0.0,0.0
+Lower,Parent Level 2_Chloro-s-triazines,5.545111035935272e-06,7.234047582606813e-06
+Lower,Parent Level 2_Dialkyl phosphates,6.2838609105276574e-06,4.764143600941397e-06
+Lower,Parent Level 2_Diaminotoluenes,0.0,0.0
+Lower,Parent Level 2_Dichlorobenzenes,4.566094812825558e-05,4.802524259624902e-05
+Lower,Parent Level 2_Dinitrotoluenes,0.0,0.0
+Lower,Parent Level 2_Monoalkylamines,0.0,0.0
+Lower,Parent Level 2_O-sulfanylbenzoic acids and derivatives,0.0,0.0
+Lower,Parent Level 2_P-chlorophenols,2.5978975717607354e-05,2.2866862269946482e-05
+Lower,Parent Level 2_Pentaorganoarsanes,0.0,0.0
+Lower,Parent Level 2_Phenyl thiophosphates,8.278775569176243e-06,1.0320479721962662e-05
+Lower,"Parent Level 2_Phenyl-1,2,4-triazoles",4.13790613399555e-06,2.8542510868292022e-06
+Lower,Parent Level 2_Phenylalkylamines,0.0,0.0
+Lower,Parent Level 2_Polychlorinated biphenyls,0.0,0.0
+Lower,Parent Level 2_Polychlorinated dibenzofurans,0.0,0.0
+Lower,Parent Level 2_Primary carboxylic acid amides,0.0,0.0
+Lower,Parent Level 2_Pyrimidinyl phosphorothioates,1.2289210937798092e-05,7.14306447610011e-06
+Lower,Parent Level 2_Secondary carboxylic acid amides,6.369258686837049e-07,1.538890577085685e-06
+Lower,Parent Level 2_Short-chain aldehydes,0.0,0.0
+Lower,Parent Level 2_Tertiary alkylarylamines,4.773278569660962e-07,6.892679198752333e-07
+Lower,Parent Level 2_Tertiary carboxylic acid amides,0.0,0.0
+Lower,Parent Level 2_Tetraalkyltins,0.0,0.0
+Lower,Parent Level 2_Trialkyl phosphates,2.0337981990236412e-05,2.1932864138305135e-05
+Lower,Parent Level 2_Trialkyltins,0.0,0.0
+Lower,Parent Level 2_p-Hydroxybenzoic acid esters,0.0,0.0
+Lower,SMR_VSA1,0.009644977376605949,0.004100788195326959
+Lower,SMR_VSA10,0.033967351259652,0.013178387280793798
+Lower,SMR_VSA2,0.00010566093458411786,0.0002450536056896422
+Lower,SMR_VSA3,0.00041039234490831196,0.00016106782149012265
+Lower,SMR_VSA4,0.00029555825999738193,0.00016751485368856774
+Lower,SMR_VSA5,0.006972432591528027,0.001995973767155599
+Lower,SMR_VSA6,0.011261315265260348,0.004109970679338362
+Lower,SMR_VSA7,0.0029543171245643932,0.0009331197502277708
+Lower,SMR_VSA8,0.0,0.0
+Lower,SMR_VSA9,0.0010901271233279394,0.0005985966341018105
+Lower,SlogP_VSA1,0.0013314938492900005,0.0004889581435729496
+Lower,SlogP_VSA10,0.0003864623944549457,0.00014487786078919845
+Lower,SlogP_VSA11,0.00016745406972363958,8.955937204202445e-05
+Lower,SlogP_VSA12,0.011767253045288114,0.00630231049002919
+Lower,SlogP_VSA2,0.008350941750827044,0.002407090603664938
+Lower,SlogP_VSA3,0.005378621946493774,0.00086168821412028
+Lower,SlogP_VSA4,0.002293127245884774,0.0013949175100034157
+Lower,SlogP_VSA5,0.001039143870108203,0.0002683878200823397
+Lower,SlogP_VSA6,0.0054907266463683135,0.00135953600970781
+Lower,SlogP_VSA7,0.018654897884287258,0.005818320945143944
+Lower,SlogP_VSA8,0.0011422307526375802,0.00041695550304055625
+Lower,SlogP_VSA9,0.0,0.0
+Lower,"Subclass_1,3,5-triazines",1.7604831171365878e-05,3.1121985254914054e-05
+Lower,"Subclass_1,4-dioxanes",0.0,0.0
+Lower,Subclass_1-hydroxy-2-unsubstituted benzenoids,2.6664732034569373e-05,3.9858110514538395e-05
+Lower,Subclass_2-benzimidazolylcarbamic acid esters,1.8517141786864444e-06,1.4319731301103753e-06
+Lower,Subclass_2-phenoxypropionic acid esters,0.0,0.0
+Lower,Subclass_2-phenoxypropionic acids,0.0031913482521293167,0.0018307502701890657
+Lower,Subclass_8-hydroxyquinolines,0.0,0.0
+Lower,Subclass_Acrylic acids and derivatives,0.0,0.0
+Lower,Subclass_Alcohols and polyols,0.0,0.0
+Lower,Subclass_Alkaline earth metal silicates,0.0,0.0
+Lower,Subclass_Alkanes,0.0,0.0
+Lower,Subclass_Amines,1.3424842210963912e-06,2.573221703820876e-06
+Lower,"Subclass_Amino acids, peptides, and analogues",0.0,0.0
+Lower,Subclass_Aminophenyl ethers,0.0,0.0
+Lower,Subclass_Aminotriazines,3.746752942083227e-05,3.191668206471295e-05
+Lower,Subclass_Anilides,7.13812547615145e-06,6.632292136630015e-06
+Lower,Subclass_Aniline and substituted anilines,1.417080443790868e-05,1.232655350925403e-05
+Lower,Subclass_Anisoles,0.0,0.0
+Lower,Subclass_Anthraquinones,0.0,0.0
+Lower,Subclass_Aryl thioethers,0.0,0.0
+Lower,Subclass_Benzenediols,0.0,0.0
+Lower,Subclass_Benzo-p-dioxins,0.0,0.0
+Lower,Subclass_Benzofuranones,0.0,0.0
+Lower,Subclass_Benzoic acids and derivatives,8.936688228755642e-05,8.121202778078786e-05
+Lower,Subclass_Benzophenones,0.0,0.0
+Lower,Subclass_Benzopyrenes,8.272512477794146e-05,9.544709037721886e-05
+Lower,Subclass_Benzoquinolines,0.0,0.0
+Lower,Subclass_Benzotriazine organothiophosphates,1.2820249366682742e-05,1.5317833453340027e-05
+Lower,Subclass_Benzyl halides,2.9498055375399115e-05,1.773175023735507e-05
+Lower,Subclass_Beta propiolactones,0.0,0.0
+Lower,Subclass_Biphenyls and derivatives,0.0,0.0
+Lower,Subclass_Branched unsaturated hydrocarbons,0.0,0.0
+Lower,Subclass_Bromohydrins,0.0,0.0
+Lower,Subclass_Carbonyl compounds,0.0,0.0
+Lower,Subclass_Carboximidic acids,0.0,0.0
+Lower,Subclass_Carboxylic acid derivatives,3.746912878288868e-06,8.43665874743398e-06
+Lower,Subclass_Chlorohydrins,0.0,0.0
+Lower,Subclass_Chloronaphthalenes,0.0,0.0
+Lower,Subclass_Cumenes,0.0,0.0
+Lower,Subclass_Cycloalkanes,0.0,0.0
+Lower,Subclass_Cyclohexyl halides,4.9738032013310037e-05,4.1961198857377986e-05
+Lower,Subclass_Dibenzofurans,0.0,0.0
+Lower,Subclass_Diphenylethers,4.8044934581079636e-05,4.450394174007934e-05
+Lower,Subclass_Diphenylmethanes,4.226942676943673e-05,7.531548501782978e-05
+Lower,Subclass_Dithiocarbamic acid esters,0.0,0.0
+Lower,Subclass_Dithiophosphate O-esters,7.110865571617737e-06,9.417176040751251e-06
+Lower,Subclass_Ethers,0.0,0.0
+Lower,Subclass_Fatty acid esters,1.8046355993966313e-05,1.502397240473472e-05
+Lower,Subclass_Fatty acids and conjugates,0.0,0.0
+Lower,Subclass_Gamma sultones,0.0,0.0
+Lower,Subclass_Guanidines,2.368285252446327e-06,6.103124904185748e-06
+Lower,Subclass_Halobenzenes,0.004431861444984209,0.0011417205113090163
+Lower,Subclass_Halomethanes,0.0005980392487301298,0.00030477378977242085
+Lower,Subclass_Halophenols,2.501772519747093e-05,1.920966260314276e-05
+Lower,Subclass_Homoisoflavones,0.0,0.0
+Lower,Subclass_Hydrazines and derivatives,0.0,0.0
+Lower,Subclass_Hydropyridines,0.0,0.0
+Lower,Subclass_Imidazoles,0.0,0.0
+Lower,Subclass_Imidazolidines,0.0,0.0
+Lower,Subclass_Isoindolines,3.67134042416994e-05,3.114563298862051e-05
+Lower,Subclass_Metalloid oxides,0.0,0.0
+Lower,Subclass_Monoterpenoids,1.709646049835479e-05,2.0082259831017303e-05
+Lower,Subclass_Morpholines,0.0,0.0
+Lower,Subclass_N-alkylpyrrolidines,0.0,0.0
+Lower,Subclass_N-phenylureas,9.978742685050545e-06,7.406543498998545e-06
+Lower,Subclass_Nitrobenzenes,0.0,0.0
+Lower,Subclass_Nitronaphthalenes,0.0,0.0
+Lower,Subclass_Nitrophenols,0.0,0.0
+Lower,Subclass_Olefins,0.0,0.0
+Lower,Subclass_Organic cyanides,0.0,0.0
+Lower,Subclass_Organic metal halides,0.0,0.0
+Lower,Subclass_Organic nitro compounds,0.0,0.0
+Lower,Subclass_Organic nitroso compounds,0.0,0.0
+Lower,Subclass_Organic phosphoramides,0.0,0.0
+Lower,Subclass_Organic sulfites,1.738684849841527e-05,8.265821045624712e-06
+Lower,Subclass_Organoarsenic compounds,0.0,0.0
+Lower,Subclass_Organolead compounds,0.0,0.0
+Lower,Subclass_Organosilicon compounds,0.00011558562637733052,0.00013001293942770074
+Lower,Subclass_Organotin compounds,0.0,0.0
+Lower,Subclass_Oximes,0.0,0.0
+Lower,Subclass_Pentacarboxylic acids and derivatives,0.0,0.0
+Lower,Subclass_Phenoxides,0.0,0.0
+Lower,Subclass_Phenoxy compounds,4.8503970116390775e-06,4.16620065726777e-06
+Lower,Subclass_Phenoxyacetic acid derivatives,7.652970622137964e-06,1.1461885906888822e-05
+Lower,Subclass_Phenylcarbamic acid esters,3.4212318585123187e-06,3.5510311058879426e-06
+Lower,Subclass_Phenylhydrazines,0.0,0.0
+Lower,Subclass_Phenylnaphthalenes,0.0,0.0
+Lower,Subclass_Phenylphosphonothioates,0.0,0.0
+Lower,Subclass_Phenylpropanes,4.5202783603903585e-05,6.493447063804892e-05
+Lower,Subclass_Phenylpyrrolidines,0.0,0.0
+Lower,Subclass_Phosphate esters,1.8254267085518295e-05,2.081503467681639e-05
+Lower,Subclass_Phosphonic acid diesters,5.309263174153074e-06,1.1907501430116151e-05
+Lower,Subclass_Purines and purine derivatives,0.0,0.0
+Lower,Subclass_Pyridazines and derivatives,1.1113849697587722e-06,3.6029485985304715e-06
+Lower,Subclass_Quaternary ammonium salts,0.0,0.0
+Lower,Subclass_Sulfuric acid esters,0.0,0.0
+Lower,Subclass_Terphenyls,0.0,0.0
+Lower,Subclass_Thiophosphoric acid esters,5.741166002633581e-05,3.402479830832022e-05
+Lower,Subclass_Toluenes,0.0,0.0
+Lower,Subclass_Triazoles,4.134734395378707e-06,4.898444218123044e-06
+Lower,Subclass_Trifluoromethylbenzenes,0.0,0.0
+Lower,Subclass_Vinyl bromides,0.0,0.0
+Lower,Subclass_Vinyl chlorides,0.0013277514146255707,0.0006972349384992637
+Lower,Subclass_Vinyl fluorides,0.0,0.0
+Lower,Subclass_Xylenes,0.00018362386341077192,8.384782023007716e-05
+Lower,Superclass_Benzenoids,0.00038531571875617795,0.00021989147057663785
+Lower,Superclass_Homogeneous metal compounds,4.8150844282587925e-05,3.433735405936797e-05
+Lower,Superclass_Homogeneous non-metal compounds,3.180694307412231e-05,2.336817484977629e-05
+Lower,Superclass_Hydrocarbons,0.0,0.0
+Lower,Superclass_Lipids and lipid-like molecules,0.00022476652384084705,0.00019577110220908372
+Lower,Superclass_Mixed metal/non-metal compounds,0.0,0.0
+Lower,"Superclass_Organic 1,3-dipolar compounds",0.0,0.0
+Lower,Superclass_Organic acids and derivatives,8.034210290587917e-05,4.334949568803635e-05
+Lower,Superclass_Organic nitrogen compounds,1.989893161703236e-06,2.834134474140132e-06
+Lower,Superclass_Organic oxygen compounds,1.4253909102798284e-05,1.6259822162779437e-05
+Lower,Superclass_Organic salts,0.0,0.0
+Lower,Superclass_Organohalogen compounds,0.0020790187719955276,0.0010447399230132607
+Lower,Superclass_Organoheterocyclic compounds,9.552129008074256e-05,3.7989854913895195e-05
+Lower,Superclass_Organometallic compounds,8.793574188558667e-05,0.0001249879497986946
+Lower,Superclass_Organosulfur compounds,0.0,0.0
+Lower,Superclass_Phenylpropanoids and polyketides,0.0,0.0
+Lower,TPSA,0.0012804140849907984,0.0003408609996038878
+Lower,Type_Air,0.0,0.0
+Lower,Type_Inland water,0.0,0.0
+Lower,Type_Marine Waters,0.0,0.0
+Lower,Type_Soil,0.0,0.0
+Lower,VSA_EState1,0.016789969834913623,0.005993935626181429
+Lower,VSA_EState10,0.06664295929783973,0.024059047790644213
+Lower,VSA_EState2,0.004263747207000787,0.0012744557317871128
+Lower,VSA_EState3,0.0043835484075634285,0.0005412501422566692
+Lower,VSA_EState4,0.0030240872376500814,0.0007612923761974415
+Lower,VSA_EState5,0.004915732908487403,0.0014342437618839392
+Lower,VSA_EState6,0.004103069468288929,0.0007381398824752614
+Lower,VSA_EState7,0.01550048439294981,0.004685572369128815
+Lower,VSA_EState8,0.0015611512456471634,0.00044151180017950193
+Lower,VSA_EState9,0.0006685937737973827,0.00022844232154162978
+Median,BalabanJ,0.053666351930103565,0.011808140267403846
+Median,BertzCT,0.021091056780278065,0.005589584165606236
+Median,Chi0,0.0009975791275090198,0.00020248774219020353
+Median,Chi0n,0.009038869749502052,0.0016504308209358454
+Median,Chi0v,0.011734788289711024,0.0023239272715846492
+Median,Chi1,0.0011595690679977043,0.0002131120111469443
+Median,Chi1n,0.0025229061248632266,0.0007784316711011532
+Median,Chi1v,0.0038597075001854573,0.0007625541669970431
+Median,Chi2n,0.026886712149267026,0.00826828579245948
+Median,Chi2v,0.00980205741859532,0.002380226061573137
+Median,Chi3n,0.007838597644667574,0.010386472353746427
+Median,Chi3v,0.0026982583327058223,0.0005766250003947374
+Median,Chi4n,0.006237290303157534,0.0034891279766591245
+Median,Chi4v,0.0055176423389763285,0.0027047573195383106
+Median,Class_Alkaline earth metal oxoanionic compounds,0.0,0.0
+Median,Class_Alkyl halides,0.00016969752571220712,8.118123030394305e-05
+Median,"Class_Allyl-type 1,3-dipolar organic compounds",0.0,0.0
+Median,Class_Anthracenes,3.047453439021433e-05,1.799061899903103e-05
+Median,Class_Aziridines,0.0,0.0
+Median,Class_Azobenzenes,0.0,0.0
+Median,Class_Azoles,5.764289545623717e-06,4.98355342830347e-06
+Median,Class_Azolidines,0.0,0.0
+Median,Class_Benzene and substituted derivatives,0.0005703842476201578,0.00023190157269429754
+Median,Class_Benzimidazoles,4.5756975664535336e-06,9.859919837391926e-06
+Median,"Class_Benzo-1,2,3-triazines",1.8524239460981274e-05,2.410240892367166e-05
+Median,Class_Benzodioxins,0.0,0.0
+Median,Class_Benzodioxoles,0.0,0.0
+Median,Class_Benzofurans,0.0,0.0
+Median,Class_Benzothiazoles,2.8639696708579066e-06,5.957395546774817e-06
+Median,Class_Carboximidic acids and derivatives,0.0,0.0
+Median,Class_Carboxylic acids and derivatives,2.9458651526666995e-06,3.6511586452469475e-06
+Median,Class_Coumarins and derivatives,0.0,0.0
+Median,Class_Diazines,9.247870657005985e-07,2.6109363726830818e-06
+Median,Class_Dioxanes,0.0,0.0
+Median,Class_Dithiocarbamic acids and derivatives,0.0,0.0
+Median,Class_Epoxides,0.0,0.0
+Median,Class_Fatty Acyls,2.6003669208638487e-05,1.966342371864329e-05
+Median,Class_Fluorenes,0.0,0.0
+Median,Class_Halohydrins,0.0,0.0
+Median,Class_Heteroaromatic compounds,0.0,0.0
+Median,Class_Homogeneous actinide compounds,0.00032742626273864407,0.0002761576667533114
+Median,Class_Homogeneous alkaline earth metal compounds,0.0003513656192758872,0.00017203132352255917
+Median,Class_Homogeneous metalloid compounds,0.0032787022348183324,0.0011209200381260944
+Median,Class_Homogeneous other non-metal compounds,3.053648956434955e-05,1.744402685085039e-05
+Median,Class_Homogeneous post-transition metal compounds,0.0003719508588423007,0.0001760359316922754
+Median,Class_Homogeneous transition metal compounds,0.0007216754998656782,0.00042954817507873046
+Median,Class_Homoisoflavonoids,0.0,0.0
+Median,Class_Imidazopyrimidines,0.0,0.0
+Median,Class_Isobenzofurans,0.0,0.0
+Median,Class_Isoindoles and derivatives,3.471348085870945e-05,3.47923637888872e-05
+Median,Class_Isoquinolines and derivatives,0.0,0.0
+Median,Class_Lactones,0.0,0.0
+Median,Class_Metalloid organides,0.0,0.0
+Median,Class_Naphthalenes,2.1834497784982516e-05,1.0403127116347229e-05
+Median,Class_Organic dithiophosphoric acids and derivatives,1.4115074440332243e-05,2.309417749423611e-05
+Median,Class_Organic metal salts,0.0,0.0
+Median,Class_Organic oxoanionic compounds,3.8340490924937816e-05,3.104747499018999e-05
+Median,Class_Organic phosphonic acids and derivatives,2.5200134962429307e-05,4.250587163048827e-05
+Median,Class_Organic phosphoric acids and derivatives,1.6344428201273692e-05,1.7253720402533054e-05
+Median,Class_Organic sulfuric acids and derivatives,0.0,0.0
+Median,Class_Organic thiophosphoric acids and derivatives,0.00010467581737715063,6.0349805906699625e-05
+Median,Class_Organo-post-transition metal compounds,0.0,0.0
+Median,Class_Organobromides,0.0,0.0
+Median,Class_Organochlorides,0.0004068328892390291,0.00018356395969667015
+Median,Class_Organofluorides,0.0,0.0
+Median,Class_Organometalloid compounds,1.366409295476659e-05,1.2328708608100617e-05
+Median,Class_Organonitrogen compounds,1.2650246984621729e-05,3.295763803494411e-05
+Median,Class_Organooxygen compounds,0.0,0.0
+Median,Class_Oxanes,5.972091585707211e-05,2.558407878855992e-05
+Median,Class_Oxathiolanes,0.0,0.0
+Median,Class_Oxazinanes,0.0,0.0
+Median,Class_Oxepanes,0.0,0.0
+Median,Class_Phenanthrenes and derivatives,4.7292687395499605e-05,1.8949613792596604e-05
+Median,Class_Phenol esters,0.0,0.0
+Median,Class_Phenol ethers,3.156588911579567e-06,3.8157424056100655e-06
+Median,Class_Phenols,6.258591784172981e-05,5.517764455759325e-05
+Median,Class_Prenol lipids,8.15131922130471e-06,8.692867409370518e-06
+Median,Class_Pyrenes,1.356218347700833e-05,2.3208394653737847e-05
+Median,Class_Pyridines and derivatives,0.0,0.0
+Median,Class_Pyrrolidines,0.0,0.0
+Median,Class_Quinolines and derivatives,0.0,0.0
+Median,Class_Saturated hydrocarbons,0.0,0.0
+Median,Class_Tetrahydrofurans,0.0,0.0
+Median,Class_Thioamides,0.0,0.0
+Median,Class_Thioethers,0.0,0.0
+Median,Class_Triazines,9.552875232759219e-05,7.3987358228755e-05
+Median,Class_Unsaturated hydrocarbons,0.0,0.0
+Median,Class_Vinyl halides,0.00012296441518909858,5.838665566226309e-05
+Median,ClassyFy Status_Completed,0.00025592286741292486,0.00011294414812721687
+Median,ClassyFy Status_Not Found,0.0,0.0
+Median,EState_VSA1,0.00394394476447586,0.0014240371730698934
+Median,EState_VSA10,0.001385207234527374,0.00046022947227785364
+Median,EState_VSA11,0.0,0.0
+Median,EState_VSA2,0.015426878086424217,0.004145129092919835
+Median,EState_VSA3,0.0024472457845971535,0.0006657216547795523
+Median,EState_VSA4,0.007547280272800311,0.0036267024788781232
+Median,EState_VSA5,0.002708214152787959,0.0008309535020296426
+Median,EState_VSA6,0.0021369898329087348,0.0005654838202422705
+Median,EState_VSA7,0.0012028022382151022,0.00026359115338486246
+Median,EState_VSA8,0.004723851771050226,0.0007436550729107375
+Median,EState_VSA9,0.03208655743824296,0.01507371863065492
+Median,HallKierAlpha,0.059210718768671365,0.02411066468358051
+Median,HeavyAtomCount,0.0007282559820097241,0.0002378698696519904
+Median,HeavyAtomMolWt,0.04748962087794518,0.01578905279568522
+Median,Kappa1,0.010489738591815156,0.0020918736579565262
+Median,Kappa2,0.024453406380906866,0.007707495645411212
+Median,Kappa3,0.017364152778681717,0.0025140076450354894
+Median,Kingdom_Inorganic compounds,3.906247909433664e-05,1.6500604930924283e-05
+Median,Kingdom_Organic compounds,0.0002364733228490663,7.285495647464585e-05
+Median,MaxAbsEStateIndex,0.006395043494374449,0.0012757040675878766
+Median,MaxAbsPartialCharge,0.006954409371271492,0.0020164365160723007
+Median,MaxEStateIndex,0.00658948540656965,0.0017571479607978292
+Median,MaxPartialCharge,0.004265470630652263,0.000860223007638977
+Median,MinAbsEStateIndex,0.005367436701814088,0.0010829236191492772
+Median,MinAbsPartialCharge,0.004950968619831521,0.0012962834733108639
+Median,MinEStateIndex,0.008171329648180948,0.0018532380136702987
+Median,MinPartialCharge,0.00355354210429083,0.0006133183142395204
+Median,MolLogP,0.05346824281340088,0.01734648658301938
+Median,MolMR,0.004147844094803541,0.0016693924119108138
+Median,MolWt,0.04844746923911704,0.017960221049093422
+Median,NHOHCount,0.00111200474566898,0.0007745305974861137
+Median,NOCount,0.00039518031595522327,0.00020327848868303757
+Median,NumAliphaticCarbocycles,0.0009538093159352213,0.0008288145156904532
+Median,NumAliphaticHeterocycles,9.208591395767443e-05,9.080015018363981e-05
+Median,NumAliphaticRings,0.0003478011323870242,0.00012763095352313103
+Median,NumAromaticCarbocycles,0.0002674880059209987,9.262030174153385e-05
+Median,NumAromaticHeterocycles,0.0001364338313777771,7.007895766952645e-05
+Median,NumAromaticRings,0.0002879051000396586,0.00014852605653304472
+Median,NumHAcceptors,0.001775582262916287,0.0005909237251011911
+Median,NumHDonors,0.0012916782458290447,0.0009786567473624016
+Median,NumHeteroatoms,0.0026986120026312203,0.0006842224951128637
+Median,NumRadicalElectrons,0.008219716550137722,0.002267789503995916
+Median,NumRotatableBonds,0.0009732306326836227,0.00025390052840491026
+Median,NumSaturatedCarbocycles,0.033883998414697684,0.01744867477032083
+Median,NumSaturatedHeterocycles,4.820605175612552e-05,2.2159710114129028e-05
+Median,NumSaturatedRings,0.004248706043253345,0.0021540548564040825
+Median,NumValenceElectrons,0.011099954020231196,0.003907190240891056
+Median,PEOE_VSA1,0.0019494900457419353,0.0007707721327431609
+Median,PEOE_VSA10,0.0011324712954059425,0.0001864012474778966
+Median,PEOE_VSA11,0.0008750452201749861,0.0003700824872396855
+Median,PEOE_VSA12,0.0010367508918078477,0.0005336623596590579
+Median,PEOE_VSA13,0.0005616222494101801,0.00020236390397822553
+Median,PEOE_VSA14,0.0014152648744635927,0.00045673324891798726
+Median,PEOE_VSA2,0.0015176826554361871,0.000498348851870847
+Median,PEOE_VSA3,0.0013229829872882623,0.0005380659728179962
+Median,PEOE_VSA4,0.0025328203745204002,0.0011063888377527181
+Median,PEOE_VSA5,0.0015018981813455306,0.0006449116416637179
+Median,PEOE_VSA6,0.03712853906802376,0.014248949765717025
+Median,PEOE_VSA7,0.016616085657751436,0.004450114374583568
+Median,PEOE_VSA8,0.00809673667554508,0.0015099360290533707
+Median,PEOE_VSA9,0.0019122443661164113,0.0003759570847453328
+Median,"Parent Level 1_1,4-dioxanes",0.0,0.0
+Median,Parent Level 1_1-hydroxy-2-unsubstituted benzenoids,8.739618533436642e-06,5.878629754087029e-06
+Median,Parent Level 1_2-benzimidazolylcarbamic acid esters,1.0362559011522402e-05,1.258760294388713e-05
+Median,Parent Level 1_2-phenoxypropionic acid esters,0.0,0.0
+Median,Parent Level 1_2-phenoxypropionic acids,1.509271314101795e-06,2.786424280464583e-06
+Median,Parent Level 1_8-hydroxyquinolines,0.0,0.0
+Median,Parent Level 1_Acridines,0.0,0.0
+Median,Parent Level 1_Acrylic acids and derivatives,0.0,0.0
+Median,Parent Level 1_Acyclic olefins,0.0,0.0
+Median,Parent Level 1_Aldehydes,0.0,0.0
+Median,Parent Level 1_Alkaline earth metal silicates,0.0,0.0
+Median,Parent Level 1_Alkanes,0.0,0.0
+Median,Parent Level 1_Alkanolamines,0.0,0.0
+Median,Parent Level 1_Alkyl phosphates,1.0910309776914524e-05,1.3537921868660186e-05
+Median,Parent Level 1_Alkylhydrazines,0.0,0.0
+Median,"Parent Level 1_Alpha,beta-unsaturated carbonyl compounds",0.0,0.0
+Median,Parent Level 1_Amino acids and derivatives,0.0,0.0
+Median,Parent Level 1_Aminophenyl ethers,0.0,0.0
+Median,Parent Level 1_Aminotoluenes,0.0,0.0
+Median,Parent Level 1_Aminotriazines,1.1287636468859191e-05,1.0309009533449507e-05
+Median,Parent Level 1_Anilides,1.0871080137420683e-05,1.1653872881123122e-05
+Median,Parent Level 1_Aniline and substituted anilines,4.379943814914498e-06,5.29067960251626e-06
+Median,Parent Level 1_Anisoles,0.0,0.0
+Median,Parent Level 1_Anthracenes,2.6688603306145936e-05,1.4137900805971093e-05
+Median,Parent Level 1_Anthraquinones,0.0,0.0
+Median,Parent Level 1_Aralkylamines,0.0,0.0
+Median,Parent Level 1_Aryl phosphates,0.0,0.0
+Median,Parent Level 1_Aryl thiophosphates,0.00010079252053436535,7.992157650319316e-05
+Median,Parent Level 1_Aziridines,0.0,0.0
+Median,Parent Level 1_Azobenzenes,0.0,0.0
+Median,Parent Level 1_Benzene and substituted derivatives,5.5481243181839194e-05,3.190381127981575e-05
+Median,Parent Level 1_Benzenoids,5.934015776630722e-06,1.0314036182453475e-05
+Median,Parent Level 1_Benzidines,0.0,0.0
+Median,Parent Level 1_Benzodioxoles,0.0,0.0
+Median,Parent Level 1_Benzofuranones,0.0,0.0
+Median,Parent Level 1_Benzoic acid esters,8.250484582290227e-05,0.0001139735343977423
+Median,Parent Level 1_Benzophenones,0.0,0.0
+Median,Parent Level 1_Benzopyrenes,1.1732148849061068e-05,1.3883459753358728e-05
+Median,Parent Level 1_Benzothiazoles,3.082867442210507e-06,1.0196864204148702e-05
+Median,Parent Level 1_Benzotriazine organothiophosphates,4.248106204487685e-05,5.1544678243048584e-05
+Median,Parent Level 1_Benzyl chlorides,2.7529100770246494e-05,2.1905480871331467e-05
+Median,Parent Level 1_Beta propiolactones,0.0,0.0
+Median,Parent Level 1_Bicyclic monoterpenoids,0.0,0.0
+Median,Parent Level 1_Biphenyls and derivatives,0.0,0.0
+Median,Parent Level 1_Bisphenols,0.0,0.0
+Median,Parent Level 1_Branched alkanes,0.0,0.0
+Median,Parent Level 1_Branched unsaturated hydrocarbons,0.0,0.0
+Median,Parent Level 1_Bromodiphenyl ethers,0.0,0.0
+Median,Parent Level 1_Bromohydrins,0.0,0.0
+Median,Parent Level 1_C-nitro compounds,0.0,0.0
+Median,Parent Level 1_Carbonyl compounds,0.0,0.0
+Median,Parent Level 1_Carboximidic acids,0.0,0.0
+Median,Parent Level 1_Carboximidic acids and derivatives,0.0,0.0
+Median,Parent Level 1_Carboxylic acid amides,1.1945189573425723e-06,1.8487457934683236e-06
+Median,Parent Level 1_Carboxylic acid esters,0.0,0.0
+Median,Parent Level 1_Catechols,0.0,0.0
+Median,Parent Level 1_Chlorinated biphenyls,0.0,0.0
+Median,Parent Level 1_Chlorinated dibenzofurans,0.0,0.0
+Median,Parent Level 1_Chlorobenzenes,0.00010931953538970187,5.342178662121007e-05
+Median,Parent Level 1_Chlorohydrins,0.0,0.0
+Median,Parent Level 1_Chloronaphthalenes,0.0,0.0
+Median,Parent Level 1_Chlorophenols,3.3805730275399606e-05,4.616247023174687e-05
+Median,Parent Level 1_Chlorophenoxyacetates,1.675452499423456e-06,3.951466930142399e-06
+Median,Parent Level 1_Coumarins and derivatives,0.0,0.0
+Median,Parent Level 1_Cumenes,0.0,0.0
+Median,Parent Level 1_Cyclic olefins,0.0,0.0
+Median,Parent Level 1_Cycloalkanes,0.0,0.0
+Median,Parent Level 1_Cyclohexyl halides,2.5535375258746354e-05,2.633923343954094e-05
+Median,Parent Level 1_Dialkyl alkylphosphonates,1.3498971731651334e-05,1.7252066982744614e-05
+Median,Parent Level 1_Dialkyl ethers,0.0,0.0
+Median,Parent Level 1_Diarylthioethers,0.0,0.0
+Median,Parent Level 1_Dibenzo-p-dioxins,0.0,0.0
+Median,Parent Level 1_Dinitroanilines,9.696487539884366e-06,1.3910775389884785e-05
+Median,Parent Level 1_Dinitrophenols,0.0,0.0
+Median,Parent Level 1_Diphenylethers,4.6323579685043765e-05,4.190190598512133e-05
+Median,Parent Level 1_Diphenylmethanes,6.517413166225567e-05,4.695378139832257e-05
+Median,Parent Level 1_Dithiocarbamic acid esters,0.0,0.0
+Median,Parent Level 1_Dithiophosphate O-esters,7.007401541222612e-06,7.858159411741044e-06
+Median,Parent Level 1_Epoxides,0.0,0.0
+Median,Parent Level 1_Ethylene bisdithiocarbamates,0.0,0.0
+Median,Parent Level 1_Fatty acid esters,7.84742035353544e-06,1.0126559799673512e-05
+Median,Parent Level 1_Fluorenes,0.0,0.0
+Median,Parent Level 1_Gamma sultones,0.0,0.0
+Median,Parent Level 1_Halo-S-triazines,3.421474318532098e-06,3.321236780140916e-06
+Median,Parent Level 1_Halomethanes,0.00025426415645819056,9.231685124229577e-05
+Median,Parent Level 1_Heteroaromatic compounds,0.0,0.0
+Median,Parent Level 1_Homogeneous actinide compounds,0.0002947336674293594,0.00024939439468651644
+Median,Parent Level 1_Homogeneous alkaline earth metal compounds,0.00037495043260784487,0.00017594089451764707
+Median,Parent Level 1_Homogeneous metalloid compounds,0.003258906284156567,0.0010363386426858862
+Median,Parent Level 1_Homogeneous other non-metal compounds,4.9639418722458043e-05,4.86584666105119e-05
+Median,Parent Level 1_Homogeneous post-transition metal compounds,0.00035973122555482283,0.00015200687488372378
+Median,Parent Level 1_Homogeneous transition metal compounds,0.0008183840285198727,0.00043370254393339355
+Median,Parent Level 1_Homoisoflavones,0.0,0.0
+Median,Parent Level 1_Imidazoles,0.0,0.0
+Median,Parent Level 1_Imidazolidines,0.0,0.0
+Median,Parent Level 1_Isobenzofurans,0.0,0.0
+Median,Parent Level 1_Isoindolones,3.65122148475607e-05,7.390004342976486e-05
+Median,Parent Level 1_Isoquinolines and derivatives,0.0,0.0
+Median,Parent Level 1_Ketoximes,0.0,0.0
+Median,Parent Level 1_Medium-chain fatty acids,0.0,0.0
+Median,Parent Level 1_Metal p-nitrophenoxides,0.0,0.0
+Median,Parent Level 1_Metalloid oxides,0.0,0.0
+Median,Parent Level 1_Methylthio-s-triazines,0.00021154981171769046,0.00017908842477430602
+Median,Parent Level 1_Monoterpenoids,1.1014721646459281e-05,1.0779821649607633e-05
+Median,Parent Level 1_Morpholines,0.0,0.0
+Median,Parent Level 1_N-alkylpyrrolidines,0.0,0.0
+Median,Parent Level 1_N-phenylureas,1.1321078334601791e-05,7.101440240618704e-06
+Median,Parent Level 1_Naphthalenes,2.3645473035108376e-05,2.1381199847528904e-05
+Median,Parent Level 1_Nitriles,0.0,0.0
+Median,Parent Level 1_Nitrobenzenes,0.0,0.0
+Median,Parent Level 1_Nitroguanidines,2.8735677193732627e-06,6.753573785383085e-06
+Median,Parent Level 1_Nitronaphthalenes,0.0,0.0
+Median,Parent Level 1_Nitrophenols,0.0,0.0
+Median,Parent Level 1_Nitrophenyl ethers,0.0,0.0
+Median,Parent Level 1_Nitrotoluenes,0.0,0.0
+Median,Parent Level 1_Organic N-nitroso compounds,0.0,0.0
+Median,Parent Level 1_Organic O-nitroso compounds,0.0,0.0
+Median,Parent Level 1_Organic metal halides,0.0,0.0
+Median,Parent Level 1_Organic phosphoramides,0.0,0.0
+Median,Parent Level 1_Organo-post-transition metal compounds,0.0,0.0
+Median,Parent Level 1_Organobromides,0.0,0.0
+Median,Parent Level 1_Organochlorides,0.000423019862484369,0.00020035612463800982
+Median,Parent Level 1_Organofluorides,0.0,0.0
+Median,Parent Level 1_Organoheterosilanes,8.21993005021481e-06,9.219042947845298e-06
+Median,Parent Level 1_Oxanes,6.245978506366518e-05,2.7964131095747958e-05
+Median,Parent Level 1_Oxepanes,0.0,0.0
+Median,Parent Level 1_P-terphenyls,0.0,0.0
+Median,Parent Level 1_Pentacarboxylic acids and derivatives,0.0,0.0
+Median,Parent Level 1_Pentavalent organic arsenic compounds,0.0,0.0
+Median,Parent Level 1_Phenanthrenes and derivatives,4.51269550087664e-05,2.3340610288868514e-05
+Median,Parent Level 1_Phenanthridines and derivatives,0.0,0.0
+Median,Parent Level 1_Phenol esters,0.0,0.0
+Median,Parent Level 1_Phenol ethers,2.704777825408654e-06,2.45357907335254e-06
+Median,Parent Level 1_Phenoxides,0.0,0.0
+Median,Parent Level 1_Phenoxy compounds,5.274161363994756e-06,3.9381914032935605e-06
+Median,Parent Level 1_Phenyl phenylphosphonothioates,0.0,0.0
+Median,Parent Level 1_Phenylcarbamic acid esters,3.3871242290450955e-06,4.4593510690924e-06
+Median,Parent Level 1_Phenylhydrazines,0.0,0.0
+Median,Parent Level 1_Phenylnaphthalenes,0.0,0.0
+Median,Parent Level 1_Phenylpropanes,1.4686521263030418e-05,2.3830413849666963e-05
+Median,Parent Level 1_Phenylpyrrolidines,0.0,0.0
+Median,Parent Level 1_Phenyltriazoles,4.469490480843435e-06,3.4248198166430904e-06
+Median,Parent Level 1_Primary alcohols,0.0,0.0
+Median,Parent Level 1_Primary amines,0.0,0.0
+Median,Parent Level 1_Pyrenes,0.0,0.0
+Median,Parent Level 1_Pyrethroids,0.00012258492302229818,0.00024777921504808074
+Median,Parent Level 1_Pyridazinones,3.9131729063383624e-07,9.272931010044112e-07
+Median,Parent Level 1_Quinolines and derivatives,0.0,0.0
+Median,Parent Level 1_Sulfanylbenzoic acids and derivatives,0.0,0.0
+Median,Parent Level 1_Sulfite esters,4.820871127852822e-05,4.1672324668425855e-05
+Median,Parent Level 1_Sulfuric acid diesters,0.0,0.0
+Median,Parent Level 1_Tertiary amines,5.756619661905465e-07,1.0376055771664445e-06
+Median,Parent Level 1_Tetraalkylammonium salts,0.0,0.0
+Median,Parent Level 1_Tetrahydrofurans,0.0,0.0
+Median,Parent Level 1_Tetrahydropyridines,0.0,0.0
+Median,Parent Level 1_Tetraorganolead compounds,0.0,0.0
+Median,Parent Level 1_Tetraorganotin compounds,0.0,0.0
+Median,Parent Level 1_Thioamides,0.0,0.0
+Median,Parent Level 1_Trifluoromethylbenzenes,0.0,0.0
+Median,Parent Level 1_Trihalomethanes,2.844642163598068e-05,2.1513079454205838e-05
+Median,Parent Level 1_Triorganotin compounds,0.0,0.0
+Median,Parent Level 1_Vinyl bromides,0.0,0.0
+Median,Parent Level 1_Vinyl chlorides,0.00010809672835990738,4.248283061294799e-05
+Median,Parent Level 1_Vinyl fluorides,0.0,0.0
+Median,Parent Level 1_Xanthines,0.0,0.0
+Median,Parent Level 1_m-Xylenes,3.0227828263865446e-05,3.597019514731798e-05
+Median,Parent Level 1_o-Xylenes,1.914501493357703e-05,3.0490170284602084e-05
+Median,Parent Level 1_p-Xylenes,2.8212398256944703e-05,3.0466614728091008e-05
+Median,"Parent Level 2_1,2-aminoalcohols",0.0,0.0
+Median,"Parent Level 2_3,3'-disubstituted benzidines",0.0,0.0
+Median,Parent Level 2_Alkadienes,0.0,0.0
+Median,Parent Level 2_Alpha amino acids and derivatives,0.0,0.0
+Median,"Parent Level 2_Alpha,beta-unsaturated aldehydes",0.0,0.0
+Median,Parent Level 2_Alpha-hydrogen aldehydes,0.0,0.0
+Median,Parent Level 2_Aryl phosphotriesters,0.0,0.0
+Median,Parent Level 2_Benzacridines,0.0,0.0
+Median,Parent Level 2_Carbamic acids and derivatives,0.0,0.0
+Median,Parent Level 2_Chlorinated dibenzo-p-dioxins,0.0,0.0
+Median,Parent Level 2_Chloro-s-triazines,7.149721761349658e-06,5.929753853656192e-06
+Median,Parent Level 2_Dialkyl phosphates,1.2058720421856296e-05,1.0576308690641008e-05
+Median,Parent Level 2_Diaminotoluenes,0.0,0.0
+Median,Parent Level 2_Dichlorobenzenes,4.314410424557815e-05,3.255895792672031e-05
+Median,Parent Level 2_Dinitrotoluenes,0.0,0.0
+Median,Parent Level 2_Monoalkylamines,0.0,0.0
+Median,Parent Level 2_O-sulfanylbenzoic acids and derivatives,0.0,0.0
+Median,Parent Level 2_P-chlorophenols,1.2681947268245853e-05,1.1687450875651012e-05
+Median,Parent Level 2_Pentaorganoarsanes,0.0,0.0
+Median,Parent Level 2_Phenyl thiophosphates,1.2423000914906798e-05,1.221355771797741e-05
+Median,"Parent Level 2_Phenyl-1,2,4-triazoles",4.447243265826758e-06,3.764446439554076e-06
+Median,Parent Level 2_Phenylalkylamines,0.0,0.0
+Median,Parent Level 2_Polychlorinated biphenyls,0.0,0.0
+Median,Parent Level 2_Polychlorinated dibenzofurans,0.0,0.0
+Median,Parent Level 2_Primary carboxylic acid amides,0.0,0.0
+Median,Parent Level 2_Pyrimidinyl phosphorothioates,2.5732982549072452e-05,1.6607329867656372e-05
+Median,Parent Level 2_Secondary carboxylic acid amides,2.9583859441542584e-06,5.239143633121323e-06
+Median,Parent Level 2_Short-chain aldehydes,0.0,0.0
+Median,Parent Level 2_Tertiary alkylarylamines,4.222879002405837e-07,1.210632010889886e-06
+Median,Parent Level 2_Tertiary carboxylic acid amides,0.0,0.0
+Median,Parent Level 2_Tetraalkyltins,0.0,0.0
+Median,Parent Level 2_Trialkyl phosphates,8.641169749017779e-06,1.0713401314797961e-05
+Median,Parent Level 2_Trialkyltins,0.0,0.0
+Median,Parent Level 2_p-Hydroxybenzoic acid esters,0.0,0.0
+Median,SMR_VSA1,0.010850078354478007,0.002094625143651611
+Median,SMR_VSA10,0.023824613735000943,0.009820292518863783
+Median,SMR_VSA2,8.56392618044836e-05,0.00016333033025178655
+Median,SMR_VSA3,0.00036319207069348685,0.00010504857680322324
+Median,SMR_VSA4,0.00033615659134113453,0.00014296899267379206
+Median,SMR_VSA5,0.0025915305121867985,0.0009755837980345158
+Median,SMR_VSA6,0.007611060558711768,0.0027068265882351592
+Median,SMR_VSA7,0.006547027930187287,0.002357064589973193
+Median,SMR_VSA8,0.0,0.0
+Median,SMR_VSA9,0.0003254977732933111,0.000116809290086095
+Median,SlogP_VSA1,0.0013397076246175687,0.0006393470902403256
+Median,SlogP_VSA10,0.000629477249414761,0.00041911408647968485
+Median,SlogP_VSA11,0.0002010995141929134,8.352856381838383e-05
+Median,SlogP_VSA12,0.01735569619663437,0.0046356567904444835
+Median,SlogP_VSA2,0.006791716077891163,0.0022802715010336655
+Median,SlogP_VSA3,0.014362491815038564,0.005916171509391556
+Median,SlogP_VSA4,0.0037375946940631536,0.002408883388886942
+Median,SlogP_VSA5,0.0019288922811062403,0.0006443393707530591
+Median,SlogP_VSA6,0.0027288683094133436,0.0007876202930105151
+Median,SlogP_VSA7,0.0012443566868266186,0.00046821978534610745
+Median,SlogP_VSA8,0.00038740749170225306,0.00019791072134882915
+Median,SlogP_VSA9,0.0,0.0
+Median,"Subclass_1,3,5-triazines",8.183192314179265e-05,6.0362354222397375e-05
+Median,"Subclass_1,4-dioxanes",0.0,0.0
+Median,Subclass_1-hydroxy-2-unsubstituted benzenoids,1.2452930096766602e-05,1.3092986406691799e-05
+Median,Subclass_2-benzimidazolylcarbamic acid esters,9.43337951207223e-06,1.3175387970643095e-05
+Median,Subclass_2-phenoxypropionic acid esters,0.0,0.0
+Median,Subclass_2-phenoxypropionic acids,1.1288827314548781e-06,2.331791106929965e-06
+Median,Subclass_8-hydroxyquinolines,0.0,0.0
+Median,Subclass_Acrylic acids and derivatives,0.0,0.0
+Median,Subclass_Alcohols and polyols,0.0,0.0
+Median,Subclass_Alkaline earth metal silicates,0.0,0.0
+Median,Subclass_Alkanes,0.0,0.0
+Median,Subclass_Amines,7.553407747600682e-07,1.1789470302909198e-06
+Median,"Subclass_Amino acids, peptides, and analogues",0.0,0.0
+Median,Subclass_Aminophenyl ethers,0.0,0.0
+Median,Subclass_Aminotriazines,1.3798212970928208e-05,1.1734430530683573e-05
+Median,Subclass_Anilides,9.206397743748227e-06,1.1960638012787019e-05
+Median,Subclass_Aniline and substituted anilines,1.0862438957658347e-05,8.262945283367513e-06
+Median,Subclass_Anisoles,0.0,0.0
+Median,Subclass_Anthraquinones,0.0,0.0
+Median,Subclass_Aryl thioethers,0.0,0.0
+Median,Subclass_Benzenediols,0.0,0.0
+Median,Subclass_Benzo-p-dioxins,0.0,0.0
+Median,Subclass_Benzofuranones,0.0,0.0
+Median,Subclass_Benzoic acids and derivatives,0.00012411549103211902,0.00015280058949127312
+Median,Subclass_Benzophenones,0.0,0.0
+Median,Subclass_Benzopyrenes,1.1047167186031256e-05,6.08086865964408e-06
+Median,Subclass_Benzoquinolines,0.0,0.0
+Median,Subclass_Benzotriazine organothiophosphates,3.0052337914209892e-05,3.5370417932094485e-05
+Median,Subclass_Benzyl halides,1.8741363491550057e-05,1.170874716028046e-05
+Median,Subclass_Beta propiolactones,0.0,0.0
+Median,Subclass_Biphenyls and derivatives,0.0,0.0
+Median,Subclass_Branched unsaturated hydrocarbons,0.0,0.0
+Median,Subclass_Bromohydrins,0.0,0.0
+Median,Subclass_Carbonyl compounds,0.0,0.0
+Median,Subclass_Carboximidic acids,0.0,0.0
+Median,Subclass_Carboxylic acid derivatives,1.7574203661464608e-06,3.06327322215151e-06
+Median,Subclass_Chlorohydrins,0.0,0.0
+Median,Subclass_Chloronaphthalenes,0.0,0.0
+Median,Subclass_Cumenes,0.0,0.0
+Median,Subclass_Cycloalkanes,0.0,0.0
+Median,Subclass_Cyclohexyl halides,2.8349464603429472e-05,3.244986179231506e-05
+Median,Subclass_Dibenzofurans,0.0,0.0
+Median,Subclass_Diphenylethers,3.9204758600703365e-05,3.213193173035197e-05
+Median,Subclass_Diphenylmethanes,3.51576925353671e-05,2.534654914982675e-05
+Median,Subclass_Dithiocarbamic acid esters,0.0,0.0
+Median,Subclass_Dithiophosphate O-esters,3.681497250076843e-06,4.134277123142451e-06
+Median,Subclass_Ethers,0.0,0.0
+Median,Subclass_Fatty acid esters,2.56862756415507e-05,2.4898269204485155e-05
+Median,Subclass_Fatty acids and conjugates,0.0,0.0
+Median,Subclass_Gamma sultones,0.0,0.0
+Median,Subclass_Guanidines,1.289208908875351e-05,4.248925036374272e-05
+Median,Subclass_Halobenzenes,0.00012339317549554362,5.3056572036863084e-05
+Median,Subclass_Halomethanes,0.0001204458242977973,7.234392323803876e-05
+Median,Subclass_Halophenols,3.738577228850757e-05,3.721532207998763e-05
+Median,Subclass_Homoisoflavones,0.0,0.0
+Median,Subclass_Hydrazines and derivatives,0.0,0.0
+Median,Subclass_Hydropyridines,0.0,0.0
+Median,Subclass_Imidazoles,0.0,0.0
+Median,Subclass_Imidazolidines,0.0,0.0
+Median,Subclass_Isoindolines,2.7032153415053086e-05,3.72477488460723e-05
+Median,Subclass_Metalloid oxides,0.0,0.0
+Median,Subclass_Monoterpenoids,1.0178728138307691e-05,1.3246184360907915e-05
+Median,Subclass_Morpholines,0.0,0.0
+Median,Subclass_N-alkylpyrrolidines,0.0,0.0
+Median,Subclass_N-phenylureas,1.7943717964563284e-05,1.002018591896557e-05
+Median,Subclass_Nitrobenzenes,0.0,0.0
+Median,Subclass_Nitronaphthalenes,0.0,0.0
+Median,Subclass_Nitrophenols,0.0,0.0
+Median,Subclass_Olefins,0.0,0.0
+Median,Subclass_Organic cyanides,0.0,0.0
+Median,Subclass_Organic metal halides,0.0,0.0
+Median,Subclass_Organic nitro compounds,0.0,0.0
+Median,Subclass_Organic nitroso compounds,0.0,0.0
+Median,Subclass_Organic phosphoramides,0.0,0.0
+Median,Subclass_Organic sulfites,4.850651911236228e-05,3.4360613010989405e-05
+Median,Subclass_Organoarsenic compounds,0.0,0.0
+Median,Subclass_Organolead compounds,0.0,0.0
+Median,Subclass_Organosilicon compounds,7.026260462860782e-06,7.960474379537149e-06
+Median,Subclass_Organotin compounds,0.0,0.0
+Median,Subclass_Oximes,0.0,0.0
+Median,Subclass_Pentacarboxylic acids and derivatives,0.0,0.0
+Median,Subclass_Phenoxides,0.0,0.0
+Median,Subclass_Phenoxy compounds,4.173064045666783e-06,2.6928076999705904e-06
+Median,Subclass_Phenoxyacetic acid derivatives,4.773105404067114e-06,1.0828114608242346e-05
+Median,Subclass_Phenylcarbamic acid esters,2.073149923503333e-06,3.3983606764757107e-06
+Median,Subclass_Phenylhydrazines,0.0,0.0
+Median,Subclass_Phenylnaphthalenes,0.0,0.0
+Median,Subclass_Phenylphosphonothioates,0.0,0.0
+Median,Subclass_Phenylpropanes,4.283104943805446e-05,8.068596386610274e-05
+Median,Subclass_Phenylpyrrolidines,0.0,0.0
+Median,Subclass_Phosphate esters,1.6783896731525757e-05,1.3674947830548702e-05
+Median,Subclass_Phosphonic acid diesters,1.1426473704340463e-05,2.55176232558162e-05
+Median,Subclass_Purines and purine derivatives,0.0,0.0
+Median,Subclass_Pyridazines and derivatives,3.019248562734877e-07,5.137928774854649e-07
+Median,Subclass_Quaternary ammonium salts,0.0,0.0
+Median,Subclass_Sulfuric acid esters,0.0,0.0
+Median,Subclass_Terphenyls,0.0,0.0
+Median,Subclass_Thiophosphoric acid esters,7.992286924749322e-05,4.123157543569104e-05
+Median,Subclass_Toluenes,0.0,0.0
+Median,Subclass_Triazoles,6.573650545182259e-06,5.550449421337824e-06
+Median,Subclass_Trifluoromethylbenzenes,0.0,0.0
+Median,Subclass_Vinyl bromides,0.0,0.0
+Median,Subclass_Vinyl chlorides,0.00011911646151000034,4.7991928052562386e-05
+Median,Subclass_Vinyl fluorides,0.0,0.0
+Median,Subclass_Xylenes,0.0003004767523795537,0.0001277027709673446
+Median,Superclass_Benzenoids,0.0013516476386488756,0.000638791135066658
+Median,Superclass_Homogeneous metal compounds,0.00011962729962576734,9.574851754676623e-05
+Median,Superclass_Homogeneous non-metal compounds,3.7212334690760216e-05,3.034868443509203e-05
+Median,Superclass_Hydrocarbons,0.0,0.0
+Median,Superclass_Lipids and lipid-like molecules,6.884192533754468e-05,6.516992729888693e-05
+Median,Superclass_Mixed metal/non-metal compounds,0.0,0.0
+Median,"Superclass_Organic 1,3-dipolar compounds",0.0,0.0
+Median,Superclass_Organic acids and derivatives,0.0001117890691556098,3.316555964160692e-05
+Median,Superclass_Organic nitrogen compounds,1.14104189703908e-05,2.0613803419952278e-05
+Median,Superclass_Organic oxygen compounds,4.5544552069893784e-05,3.4779552669096875e-05
+Median,Superclass_Organic salts,0.0,0.0
+Median,Superclass_Organohalogen compounds,0.00048286564162804054,0.00028454803708923427
+Median,Superclass_Organoheterocyclic compounds,0.00012937783329095617,6.40931345125735e-05
+Median,Superclass_Organometallic compounds,4.7217708675551426e-06,5.44439802256976e-06
+Median,Superclass_Organosulfur compounds,0.0,0.0
+Median,Superclass_Phenylpropanoids and polyketides,0.0,0.0
+Median,TPSA,0.0014367620979550085,0.0007006979753566833
+Median,Type_Air,0.0,0.0
+Median,Type_Inland water,0.0,0.0
+Median,Type_Marine Waters,0.0,0.0
+Median,Type_Soil,0.0,0.0
+Median,VSA_EState1,0.006635761329907104,0.0018733575041096095
+Median,VSA_EState10,0.14903702320984594,0.04473472169631516
+Median,VSA_EState2,0.004125052861231125,0.0010825879608490653
+Median,VSA_EState3,0.002736503073635262,0.0006344314999788184
+Median,VSA_EState4,0.009831745184883427,0.004281946926905134
+Median,VSA_EState5,0.0026653078752894906,0.0006901597311667807
+Median,VSA_EState6,0.003230243150669413,0.0008850733927761942
+Median,VSA_EState7,0.0014239126565068578,0.00032535313225335466
+Median,VSA_EState8,0.0017041373232798724,0.000406102724046802
+Median,VSA_EState9,0.0009005488876667481,0.0003545084095820032
+Upper,BalabanJ,0.07516065073750712,0.01575434513065642
+Upper,BertzCT,0.01860385824340433,0.003987633642046684
+Upper,Chi0,0.0010209929002321777,0.00025073641033060504
+Upper,Chi0n,0.009490762825651177,0.0021455011076044737
+Upper,Chi0v,0.010521130136886497,0.0018444926529804838
+Upper,Chi1,0.001477492776012484,0.00035358148854406615
+Upper,Chi1n,0.002903646146296721,0.0009482251037323065
+Upper,Chi1v,0.0043738171780453635,0.0012797861659785315
+Upper,Chi2n,0.019923626099760693,0.005288328783517012
+Upper,Chi2v,0.008701352186352297,0.0021611880479614227
+Upper,Chi3n,0.007174371659782581,0.008638977720147427
+Upper,Chi3v,0.0025468227241872816,0.0007651134419455647
+Upper,Chi4n,0.005654812933952581,0.0029459712103608957
+Upper,Chi4v,0.004124892613666625,0.0018431155695791091
+Upper,Class_Alkaline earth metal oxoanionic compounds,0.0,0.0
+Upper,Class_Alkyl halides,0.00011226402598266672,5.4479410294647275e-05
+Upper,"Class_Allyl-type 1,3-dipolar organic compounds",0.0,0.0
+Upper,Class_Anthracenes,2.9695557999640803e-05,1.7173469110348084e-05
+Upper,Class_Aziridines,0.0,0.0
+Upper,Class_Azobenzenes,0.0,0.0
+Upper,Class_Azoles,6.444705222484579e-06,4.225652692282677e-06
+Upper,Class_Azolidines,0.0,0.0
+Upper,Class_Benzene and substituted derivatives,0.0004936852383059943,0.00024091891626930147
+Upper,Class_Benzimidazoles,1.013967870123171e-05,1.3930963831662148e-05
+Upper,"Class_Benzo-1,2,3-triazines",1.5139633877144696e-05,1.7160670033562547e-05
+Upper,Class_Benzodioxins,0.0,0.0
+Upper,Class_Benzodioxoles,0.0,0.0
+Upper,Class_Benzofurans,0.0,0.0
+Upper,Class_Benzothiazoles,2.635471222621991e-06,7.543534068478928e-06
+Upper,Class_Carboximidic acids and derivatives,0.0,0.0
+Upper,Class_Carboxylic acids and derivatives,2.793511535326981e-06,7.293968699847211e-06
+Upper,Class_Coumarins and derivatives,0.0,0.0
+Upper,Class_Diazines,1.1722836360438079e-07,1.6959484260964393e-07
+Upper,Class_Dioxanes,0.0,0.0
+Upper,Class_Dithiocarbamic acids and derivatives,0.0,0.0
+Upper,Class_Epoxides,0.0,0.0
+Upper,Class_Fatty Acyls,3.466489467592541e-05,4.5070756812901004e-05
+Upper,Class_Fluorenes,0.0,0.0
+Upper,Class_Halohydrins,0.0,0.0
+Upper,Class_Heteroaromatic compounds,0.0,0.0
+Upper,Class_Homogeneous actinide compounds,0.0008574364224771743,0.0007749368347491326
+Upper,Class_Homogeneous alkaline earth metal compounds,0.0005496142119075694,0.0002451589868272992
+Upper,Class_Homogeneous metalloid compounds,0.0029466753491539277,0.0009074053107427212
+Upper,Class_Homogeneous other non-metal compounds,4.20099963822028e-05,2.6100628096774553e-05
+Upper,Class_Homogeneous post-transition metal compounds,0.00030432570190054906,0.00015382968969504965
+Upper,Class_Homogeneous transition metal compounds,0.0005003716748305514,0.0002550497930805998
+Upper,Class_Homoisoflavonoids,0.0,0.0
+Upper,Class_Imidazopyrimidines,0.0,0.0
+Upper,Class_Isobenzofurans,0.0,0.0
+Upper,Class_Isoindoles and derivatives,4.000286115227439e-05,5.641637813322554e-05
+Upper,Class_Isoquinolines and derivatives,0.0,0.0
+Upper,Class_Lactones,0.0,0.0
+Upper,Class_Metalloid organides,0.0,0.0
+Upper,Class_Naphthalenes,2.3400153978419146e-05,1.0509874125974392e-05
+Upper,Class_Organic dithiophosphoric acids and derivatives,3.4607718340882673e-06,3.496612222624732e-06
+Upper,Class_Organic metal salts,0.0,0.0
+Upper,Class_Organic oxoanionic compounds,2.796288153727247e-05,2.959701063365184e-05
+Upper,Class_Organic phosphonic acids and derivatives,3.7406141028193756e-05,7.897981021042412e-05
+Upper,Class_Organic phosphoric acids and derivatives,1.3904805195863677e-05,1.2150426100857342e-05
+Upper,Class_Organic sulfuric acids and derivatives,0.0,0.0
+Upper,Class_Organic thiophosphoric acids and derivatives,8.978585516366386e-05,4.9091517338428256e-05
+Upper,Class_Organo-post-transition metal compounds,0.0,0.0
+Upper,Class_Organobromides,0.0,0.0
+Upper,Class_Organochlorides,0.00028808987456586146,0.00016879200179869216
+Upper,Class_Organofluorides,0.0,0.0
+Upper,Class_Organometalloid compounds,1.0092619104730607e-05,1.42354269177048e-05
+Upper,Class_Organonitrogen compounds,4.278545625805301e-05,6.435844804881956e-05
+Upper,Class_Organooxygen compounds,0.0,0.0
+Upper,Class_Oxanes,3.903543631900746e-05,1.6463099295989113e-05
+Upper,Class_Oxathiolanes,0.0,0.0
+Upper,Class_Oxazinanes,0.0,0.0
+Upper,Class_Oxepanes,0.0,0.0
+Upper,Class_Phenanthrenes and derivatives,4.312907816435038e-05,1.6659420631532525e-05
+Upper,Class_Phenol esters,0.0,0.0
+Upper,Class_Phenol ethers,5.888755783562945e-06,9.756028849952613e-06
+Upper,Class_Phenols,5.3454753993108495e-05,4.5650872758685836e-05
+Upper,Class_Prenol lipids,9.263500823896661e-06,7.416758964106714e-06
+Upper,Class_Pyrenes,7.323162374285104e-06,6.499674347524015e-06
+Upper,Class_Pyridines and derivatives,0.0,0.0
+Upper,Class_Pyrrolidines,0.0,0.0
+Upper,Class_Quinolines and derivatives,0.0,0.0
+Upper,Class_Saturated hydrocarbons,0.0,0.0
+Upper,Class_Tetrahydrofurans,0.0,0.0
+Upper,Class_Thioamides,0.0,0.0
+Upper,Class_Thioethers,0.0,0.0
+Upper,Class_Triazines,0.00011238396166423521,5.9362845622909374e-05
+Upper,Class_Unsaturated hydrocarbons,0.0,0.0
+Upper,Class_Vinyl halides,0.00012602315917907382,7.160543729081143e-05
+Upper,ClassyFy Status_Completed,0.00026836927789912257,0.00011610398148191145
+Upper,ClassyFy Status_Not Found,0.0,0.0
+Upper,EState_VSA1,0.0036628552784243825,0.0011088445460678384
+Upper,EState_VSA10,0.0011337618121438136,0.00030285030155184184
+Upper,EState_VSA11,0.0,0.0
+Upper,EState_VSA2,0.0180831808091472,0.0040213301252649495
+Upper,EState_VSA3,0.0031848001421399532,0.0012170039502782373
+Upper,EState_VSA4,0.0072700505953972,0.0032430381509520973
+Upper,EState_VSA5,0.002719114629919299,0.0007976471617096107
+Upper,EState_VSA6,0.001965577022452613,0.0004343667367770499
+Upper,EState_VSA7,0.0010723906903645638,0.00032075760341051526
+Upper,EState_VSA8,0.004648506330599695,0.0008478462145657433
+Upper,EState_VSA9,0.02831150036635299,0.012983890903188295
+Upper,HallKierAlpha,0.09559426319037719,0.041392939236490345
+Upper,HeavyAtomCount,0.0007791725671604273,0.0002457278396658412
+Upper,HeavyAtomMolWt,0.0498272091680906,0.016054690786620005
+Upper,Kappa1,0.011430531626772832,0.002932274121160256
+Upper,Kappa2,0.022763399606210002,0.007375215563819749
+Upper,Kappa3,0.016515638167462182,0.0024501661235430965
+Upper,Kingdom_Inorganic compounds,6.016188890551886e-05,3.4682788980574596e-05
+Upper,Kingdom_Organic compounds,0.0003448053031102144,0.00022340538366482084
+Upper,MaxAbsEStateIndex,0.006217622028607059,0.0013487807416667132
+Upper,MaxAbsPartialCharge,0.00643207713038341,0.0013967123470197765
+Upper,MaxEStateIndex,0.006041460446130087,0.0014038243119693962
+Upper,MaxPartialCharge,0.00481532893872336,0.0009470625960317988
+Upper,MinAbsEStateIndex,0.006609460563281045,0.0021819427214695153
+Upper,MinAbsPartialCharge,0.006438633602662771,0.001770267778331176
+Upper,MinEStateIndex,0.008148662828487793,0.0021939034246385553
+Upper,MinPartialCharge,0.0052562827186320715,0.001091326124239803
+Upper,MolLogP,0.047755884427928094,0.012883857609641378
+Upper,MolMR,0.00549367329915856,0.0016813837855279294
+Upper,MolWt,0.03823993969662945,0.01107204453335645
+Upper,NHOHCount,0.0007567263678999031,0.00038316000670068456
+Upper,NOCount,0.0005759075764053482,0.00028151778188978204
+Upper,NumAliphaticCarbocycles,0.0011101953034472383,0.0009046169006896677
+Upper,NumAliphaticHeterocycles,0.0001755406962320434,0.00015690446437416206
+Upper,NumAliphaticRings,0.0004261360482912702,0.00016872865088139865
+Upper,NumAromaticCarbocycles,0.00032407927091007135,6.503176951873248e-05
+Upper,NumAromaticHeterocycles,0.00013672089287951374,8.167415876685127e-05
+Upper,NumAromaticRings,0.0002752458309324794,0.00011852043992986399
+Upper,NumHAcceptors,0.0017965175835115191,0.0005708619005453634
+Upper,NumHDonors,0.000830022981747263,0.0006321132938112628
+Upper,NumHeteroatoms,0.002499223053130928,0.0006041131477981594
+Upper,NumRadicalElectrons,0.008452016173228957,0.002598172209423797
+Upper,NumRotatableBonds,0.0010286999215080735,0.0002548140200488256
+Upper,NumSaturatedCarbocycles,0.025319070101711413,0.0131634250264552
+Upper,NumSaturatedHeterocycles,4.211941751623433e-05,2.658674638653018e-05
+Upper,NumSaturatedRings,0.003064801250667362,0.0014253996496213564
+Upper,NumValenceElectrons,0.009172137736945873,0.0029233694934741403
+Upper,PEOE_VSA1,0.0018844530989657387,0.000752338629482375
+Upper,PEOE_VSA10,0.0009052277740075322,0.00018193371236393694
+Upper,PEOE_VSA11,0.00103200247367733,0.000451938544303449
+Upper,PEOE_VSA12,0.0013504053853580368,0.0004915148247218115
+Upper,PEOE_VSA13,0.0006103613933720214,0.00026032943487014636
+Upper,PEOE_VSA14,0.0019928537121176784,0.000749582641287842
+Upper,PEOE_VSA2,0.001640025241218492,0.000393224039439059
+Upper,PEOE_VSA3,0.001559660205270864,0.0005030793272696131
+Upper,PEOE_VSA4,0.002913173162807566,0.0013255210851730811
+Upper,PEOE_VSA5,0.0015844781029628115,0.0004634281841791589
+Upper,PEOE_VSA6,0.021834233127679587,0.008452147388921728
+Upper,PEOE_VSA7,0.015228038510658183,0.0035303946878254685
+Upper,PEOE_VSA8,0.007511051495899568,0.0014787193441399742
+Upper,PEOE_VSA9,0.0018737374695142566,0.00030872799750715957
+Upper,"Parent Level 1_1,4-dioxanes",0.0,0.0
+Upper,Parent Level 1_1-hydroxy-2-unsubstituted benzenoids,1.360555784469139e-05,1.2398672027968463e-05
+Upper,Parent Level 1_2-benzimidazolylcarbamic acid esters,1.140894045544345e-05,1.379657040421764e-05
+Upper,Parent Level 1_2-phenoxypropionic acid esters,0.0,0.0
+Upper,Parent Level 1_2-phenoxypropionic acids,1.2190310144480502e-05,4.3047082747349056e-05
+Upper,Parent Level 1_8-hydroxyquinolines,0.0,0.0
+Upper,Parent Level 1_Acridines,0.0,0.0
+Upper,Parent Level 1_Acrylic acids and derivatives,0.0,0.0
+Upper,Parent Level 1_Acyclic olefins,0.0,0.0
+Upper,Parent Level 1_Aldehydes,0.0,0.0
+Upper,Parent Level 1_Alkaline earth metal silicates,0.0,0.0
+Upper,Parent Level 1_Alkanes,0.0,0.0
+Upper,Parent Level 1_Alkanolamines,0.0,0.0
+Upper,Parent Level 1_Alkyl phosphates,1.248599526127249e-05,1.360528166200258e-05
+Upper,Parent Level 1_Alkylhydrazines,0.0,0.0
+Upper,"Parent Level 1_Alpha,beta-unsaturated carbonyl compounds",0.0,0.0
+Upper,Parent Level 1_Amino acids and derivatives,0.0,0.0
+Upper,Parent Level 1_Aminophenyl ethers,0.0,0.0
+Upper,Parent Level 1_Aminotoluenes,0.0,0.0
+Upper,Parent Level 1_Aminotriazines,9.235204460361347e-06,1.0907613671308884e-05
+Upper,Parent Level 1_Anilides,1.0884750195824964e-05,1.6105136350044945e-05
+Upper,Parent Level 1_Aniline and substituted anilines,1.700412704285895e-06,2.1197477564062178e-06
+Upper,Parent Level 1_Anisoles,0.0,0.0
+Upper,Parent Level 1_Anthracenes,2.9817598374410116e-05,1.0660923355691423e-05
+Upper,Parent Level 1_Anthraquinones,0.0,0.0
+Upper,Parent Level 1_Aralkylamines,0.0,0.0
+Upper,Parent Level 1_Aryl phosphates,0.0,0.0
+Upper,Parent Level 1_Aryl thiophosphates,9.418984130064767e-05,5.918667064512918e-05
+Upper,Parent Level 1_Aziridines,0.0,0.0
+Upper,Parent Level 1_Azobenzenes,0.0,0.0
+Upper,Parent Level 1_Benzene and substituted derivatives,5.002100217666463e-05,2.323520108551364e-05
+Upper,Parent Level 1_Benzenoids,5.7691803699940686e-06,1.0325487741149357e-05
+Upper,Parent Level 1_Benzidines,0.0,0.0
+Upper,Parent Level 1_Benzodioxoles,0.0,0.0
+Upper,Parent Level 1_Benzofuranones,0.0,0.0
+Upper,Parent Level 1_Benzoic acid esters,0.00010438281062722099,0.00012069600083112786
+Upper,Parent Level 1_Benzophenones,0.0,0.0
+Upper,Parent Level 1_Benzopyrenes,7.305968634027449e-06,6.6706214973102534e-06
+Upper,Parent Level 1_Benzothiazoles,6.346476862695063e-06,1.6596571181042942e-05
+Upper,Parent Level 1_Benzotriazine organothiophosphates,1.4274951901054605e-05,1.774882452334574e-05
+Upper,Parent Level 1_Benzyl chlorides,2.0178435919422533e-05,1.4213522274582832e-05
+Upper,Parent Level 1_Beta propiolactones,0.0,0.0
+Upper,Parent Level 1_Bicyclic monoterpenoids,0.0,0.0
+Upper,Parent Level 1_Biphenyls and derivatives,0.0,0.0
+Upper,Parent Level 1_Bisphenols,0.0,0.0
+Upper,Parent Level 1_Branched alkanes,0.0,0.0
+Upper,Parent Level 1_Branched unsaturated hydrocarbons,0.0,0.0
+Upper,Parent Level 1_Bromodiphenyl ethers,0.0,0.0
+Upper,Parent Level 1_Bromohydrins,0.0,0.0
+Upper,Parent Level 1_C-nitro compounds,0.0,0.0
+Upper,Parent Level 1_Carbonyl compounds,0.0,0.0
+Upper,Parent Level 1_Carboximidic acids,0.0,0.0
+Upper,Parent Level 1_Carboximidic acids and derivatives,0.0,0.0
+Upper,Parent Level 1_Carboxylic acid amides,3.1488191590164087e-06,4.7092937704361525e-06
+Upper,Parent Level 1_Carboxylic acid esters,0.0,0.0
+Upper,Parent Level 1_Catechols,0.0,0.0
+Upper,Parent Level 1_Chlorinated biphenyls,0.0,0.0
+Upper,Parent Level 1_Chlorinated dibenzofurans,0.0,0.0
+Upper,Parent Level 1_Chlorobenzenes,9.529202027695303e-05,3.980977177567699e-05
+Upper,Parent Level 1_Chlorohydrins,0.0,0.0
+Upper,Parent Level 1_Chloronaphthalenes,0.0,0.0
+Upper,Parent Level 1_Chlorophenols,5.5861086827619475e-05,6.593271026931174e-05
+Upper,Parent Level 1_Chlorophenoxyacetates,1.055545837202222e-06,1.8390244385624477e-06
+Upper,Parent Level 1_Coumarins and derivatives,0.0,0.0
+Upper,Parent Level 1_Cumenes,0.0,0.0
+Upper,Parent Level 1_Cyclic olefins,0.0,0.0
+Upper,Parent Level 1_Cycloalkanes,0.0,0.0
+Upper,Parent Level 1_Cyclohexyl halides,3.027138183638726e-05,1.831082471299219e-05
+Upper,Parent Level 1_Dialkyl alkylphosphonates,9.791519073835384e-05,0.00011600997300340527
+Upper,Parent Level 1_Dialkyl ethers,0.0,0.0
+Upper,Parent Level 1_Diarylthioethers,0.0,0.0
+Upper,Parent Level 1_Dibenzo-p-dioxins,0.0,0.0
+Upper,Parent Level 1_Dinitroanilines,9.73115961114797e-06,1.6007736098292886e-05
+Upper,Parent Level 1_Dinitrophenols,0.0,0.0
+Upper,Parent Level 1_Diphenylethers,5.903202565476872e-05,5.41780207114588e-05
+Upper,Parent Level 1_Diphenylmethanes,5.717801838540936e-05,4.184073134865273e-05
+Upper,Parent Level 1_Dithiocarbamic acid esters,0.0,0.0
+Upper,Parent Level 1_Dithiophosphate O-esters,3.458587463478937e-06,4.421000320676152e-06
+Upper,Parent Level 1_Epoxides,0.0,0.0
+Upper,Parent Level 1_Ethylene bisdithiocarbamates,0.0,0.0
+Upper,Parent Level 1_Fatty acid esters,9.713275002561989e-06,1.699748405854774e-05
+Upper,Parent Level 1_Fluorenes,0.0,0.0
+Upper,Parent Level 1_Gamma sultones,0.0,0.0
+Upper,Parent Level 1_Halo-S-triazines,5.034009812141962e-06,6.887309716018972e-06
+Upper,Parent Level 1_Halomethanes,0.00029891460159115895,0.00014214192630669628
+Upper,Parent Level 1_Heteroaromatic compounds,0.0,0.0
+Upper,Parent Level 1_Homogeneous actinide compounds,0.000911597310548886,0.0007368237159660893
+Upper,Parent Level 1_Homogeneous alkaline earth metal compounds,0.0005149258778246974,0.0002146415170009037
+Upper,Parent Level 1_Homogeneous metalloid compounds,0.0031949012434931835,0.0010239292723231669
+Upper,Parent Level 1_Homogeneous other non-metal compounds,3.545058451355351e-05,2.660794273760754e-05
+Upper,Parent Level 1_Homogeneous post-transition metal compounds,0.0003434523790709077,0.00017741979915745866
+Upper,Parent Level 1_Homogeneous transition metal compounds,0.0005625781242625126,0.0002400864442039447
+Upper,Parent Level 1_Homoisoflavones,0.0,0.0
+Upper,Parent Level 1_Imidazoles,0.0,0.0
+Upper,Parent Level 1_Imidazolidines,0.0,0.0
+Upper,Parent Level 1_Isobenzofurans,0.0,0.0
+Upper,Parent Level 1_Isoindolones,4.640492731885169e-05,5.158670690003805e-05
+Upper,Parent Level 1_Isoquinolines and derivatives,0.0,0.0
+Upper,Parent Level 1_Ketoximes,0.0,0.0
+Upper,Parent Level 1_Medium-chain fatty acids,0.0,0.0
+Upper,Parent Level 1_Metal p-nitrophenoxides,0.0,0.0
+Upper,Parent Level 1_Metalloid oxides,0.0,0.0
+Upper,Parent Level 1_Methylthio-s-triazines,0.00029788380067221883,0.0001591425377578503
+Upper,Parent Level 1_Monoterpenoids,1.5021364164090807e-05,1.3902605695749786e-05
+Upper,Parent Level 1_Morpholines,0.0,0.0
+Upper,Parent Level 1_N-alkylpyrrolidines,0.0,0.0
+Upper,Parent Level 1_N-phenylureas,1.4048246441871725e-05,7.529271405162878e-06
+Upper,Parent Level 1_Naphthalenes,1.8526260644528237e-05,8.821862102638359e-06
+Upper,Parent Level 1_Nitriles,0.0,0.0
+Upper,Parent Level 1_Nitrobenzenes,0.0,0.0
+Upper,Parent Level 1_Nitroguanidines,1.891586879412516e-05,4.2216259988679217e-05
+Upper,Parent Level 1_Nitronaphthalenes,0.0,0.0
+Upper,Parent Level 1_Nitrophenols,0.0,0.0
+Upper,Parent Level 1_Nitrophenyl ethers,0.0,0.0
+Upper,Parent Level 1_Nitrotoluenes,0.0,0.0
+Upper,Parent Level 1_Organic N-nitroso compounds,0.0,0.0
+Upper,Parent Level 1_Organic O-nitroso compounds,0.0,0.0
+Upper,Parent Level 1_Organic metal halides,0.0,0.0
+Upper,Parent Level 1_Organic phosphoramides,0.0,0.0
+Upper,Parent Level 1_Organo-post-transition metal compounds,0.0,0.0
+Upper,Parent Level 1_Organobromides,0.0,0.0
+Upper,Parent Level 1_Organochlorides,0.00026459986534402177,0.00015096536023094753
+Upper,Parent Level 1_Organofluorides,0.0,0.0
+Upper,Parent Level 1_Organoheterosilanes,4.497035997165207e-06,6.731327286986038e-06
+Upper,Parent Level 1_Oxanes,4.53979353796743e-05,2.8757664370455988e-05
+Upper,Parent Level 1_Oxepanes,0.0,0.0
+Upper,Parent Level 1_P-terphenyls,0.0,0.0
+Upper,Parent Level 1_Pentacarboxylic acids and derivatives,0.0,0.0
+Upper,Parent Level 1_Pentavalent organic arsenic compounds,0.0,0.0
+Upper,Parent Level 1_Phenanthrenes and derivatives,4.280799570386687e-05,2.1542443654656518e-05
+Upper,Parent Level 1_Phenanthridines and derivatives,0.0,0.0
+Upper,Parent Level 1_Phenol esters,0.0,0.0
+Upper,Parent Level 1_Phenol ethers,2.0310315515922678e-06,1.710424396005699e-06
+Upper,Parent Level 1_Phenoxides,0.0,0.0
+Upper,Parent Level 1_Phenoxy compounds,7.984659289287914e-06,5.3192576616386845e-06
+Upper,Parent Level 1_Phenyl phenylphosphonothioates,0.0,0.0
+Upper,Parent Level 1_Phenylcarbamic acid esters,1.0921768313715855e-06,9.348720505674361e-07
+Upper,Parent Level 1_Phenylhydrazines,0.0,0.0
+Upper,Parent Level 1_Phenylnaphthalenes,0.0,0.0
+Upper,Parent Level 1_Phenylpropanes,1.9157895296379367e-05,2.226612612960065e-05
+Upper,Parent Level 1_Phenylpyrrolidines,0.0,0.0
+Upper,Parent Level 1_Phenyltriazoles,9.210310715049008e-06,6.029122830185286e-06
+Upper,Parent Level 1_Primary alcohols,0.0,0.0
+Upper,Parent Level 1_Primary amines,0.0,0.0
+Upper,Parent Level 1_Pyrenes,0.0,0.0
+Upper,Parent Level 1_Pyrethroids,3.324940650397118e-05,5.238595835961268e-05
+Upper,Parent Level 1_Pyridazinones,1.3437279639163127e-06,2.2799139758439285e-06
+Upper,Parent Level 1_Quinolines and derivatives,0.0,0.0
+Upper,Parent Level 1_Sulfanylbenzoic acids and derivatives,0.0,0.0
+Upper,Parent Level 1_Sulfite esters,2.3673711972839122e-05,2.2974358957775664e-05
+Upper,Parent Level 1_Sulfuric acid diesters,0.0,0.0
+Upper,Parent Level 1_Tertiary amines,4.1288964270465953e-07,6.525571896918337e-07
+Upper,Parent Level 1_Tetraalkylammonium salts,0.0,0.0
+Upper,Parent Level 1_Tetrahydrofurans,0.0,0.0
+Upper,Parent Level 1_Tetrahydropyridines,0.0,0.0
+Upper,Parent Level 1_Tetraorganolead compounds,0.0,0.0
+Upper,Parent Level 1_Tetraorganotin compounds,0.0,0.0
+Upper,Parent Level 1_Thioamides,0.0,0.0
+Upper,Parent Level 1_Trifluoromethylbenzenes,0.0,0.0
+Upper,Parent Level 1_Trihalomethanes,2.6683718932543135e-05,2.0792409027890094e-05
+Upper,Parent Level 1_Triorganotin compounds,0.0,0.0
+Upper,Parent Level 1_Vinyl bromides,0.0,0.0
+Upper,Parent Level 1_Vinyl chlorides,0.00014031771498299375,6.888198885127721e-05
+Upper,Parent Level 1_Vinyl fluorides,0.0,0.0
+Upper,Parent Level 1_Xanthines,0.0,0.0
+Upper,Parent Level 1_m-Xylenes,2.3694921418689277e-05,2.4228728973389606e-05
+Upper,Parent Level 1_o-Xylenes,2.3536859271434482e-05,2.5865360301492032e-05
+Upper,Parent Level 1_p-Xylenes,2.7699569109434485e-05,3.501118306678159e-05
+Upper,"Parent Level 2_1,2-aminoalcohols",0.0,0.0
+Upper,"Parent Level 2_3,3'-disubstituted benzidines",0.0,0.0
+Upper,Parent Level 2_Alkadienes,0.0,0.0
+Upper,Parent Level 2_Alpha amino acids and derivatives,0.0,0.0
+Upper,"Parent Level 2_Alpha,beta-unsaturated aldehydes",0.0,0.0
+Upper,Parent Level 2_Alpha-hydrogen aldehydes,0.0,0.0
+Upper,Parent Level 2_Aryl phosphotriesters,0.0,0.0
+Upper,Parent Level 2_Benzacridines,0.0,0.0
+Upper,Parent Level 2_Carbamic acids and derivatives,0.0,0.0
+Upper,Parent Level 2_Chlorinated dibenzo-p-dioxins,0.0,0.0
+Upper,Parent Level 2_Chloro-s-triazines,3.5672521576683125e-06,3.5252698264180933e-06
+Upper,Parent Level 2_Dialkyl phosphates,1.3057795778224336e-05,1.1574153556646688e-05
+Upper,Parent Level 2_Diaminotoluenes,0.0,0.0
+Upper,Parent Level 2_Dichlorobenzenes,5.4222849088474786e-05,6.653438181296561e-05
+Upper,Parent Level 2_Dinitrotoluenes,0.0,0.0
+Upper,Parent Level 2_Monoalkylamines,0.0,0.0
+Upper,Parent Level 2_O-sulfanylbenzoic acids and derivatives,0.0,0.0
+Upper,Parent Level 2_P-chlorophenols,6.120847362821176e-05,5.373250969454807e-05
+Upper,Parent Level 2_Pentaorganoarsanes,0.0,0.0
+Upper,Parent Level 2_Phenyl thiophosphates,1.8932096293888662e-05,2.0874029046336896e-05
+Upper,"Parent Level 2_Phenyl-1,2,4-triazoles",8.883313699120445e-06,6.604517651138273e-06
+Upper,Parent Level 2_Phenylalkylamines,0.0,0.0
+Upper,Parent Level 2_Polychlorinated biphenyls,0.0,0.0
+Upper,Parent Level 2_Polychlorinated dibenzofurans,0.0,0.0
+Upper,Parent Level 2_Primary carboxylic acid amides,0.0,0.0
+Upper,Parent Level 2_Pyrimidinyl phosphorothioates,1.6241246641991982e-05,1.4631059243963767e-05
+Upper,Parent Level 2_Secondary carboxylic acid amides,2.743340282852136e-06,4.178381105115125e-06
+Upper,Parent Level 2_Short-chain aldehydes,0.0,0.0
+Upper,Parent Level 2_Tertiary alkylarylamines,4.1044177063627286e-07,1.086252182874012e-06
+Upper,Parent Level 2_Tertiary carboxylic acid amides,0.0,0.0
+Upper,Parent Level 2_Tetraalkyltins,0.0,0.0
+Upper,Parent Level 2_Trialkyl phosphates,5.914648483615407e-06,8.574172784428197e-06
+Upper,Parent Level 2_Trialkyltins,0.0,0.0
+Upper,Parent Level 2_p-Hydroxybenzoic acid esters,0.0,0.0
+Upper,SMR_VSA1,0.011761770558376704,0.0023825223185966506
+Upper,SMR_VSA10,0.021844609338079805,0.007370864561194926
+Upper,SMR_VSA2,7.076765208413189e-05,0.00011217957927691155
+Upper,SMR_VSA3,0.00041219687886784025,0.0001568902336941455
+Upper,SMR_VSA4,0.00040318848594039807,0.00026266054653075404
+Upper,SMR_VSA5,0.002580561411268632,0.0010608050011475846
+Upper,SMR_VSA6,0.01807082584999969,0.00583158840569515
+Upper,SMR_VSA7,0.01021924829406633,0.004169259149944477
+Upper,SMR_VSA8,0.0,0.0
+Upper,SMR_VSA9,0.0003671154079733476,0.0001415869535420468
+Upper,SlogP_VSA1,0.0012368465790976743,0.0005152772172009167
+Upper,SlogP_VSA10,0.000518226455289775,0.00033891357020765506
+Upper,SlogP_VSA11,0.00020086587280564768,7.797141271664817e-05
+Upper,SlogP_VSA12,0.015579671665088328,0.003752879874217198
+Upper,SlogP_VSA2,0.007919970937199722,0.0018501293996976253
+Upper,SlogP_VSA3,0.012752674422871289,0.004841428348511618
+Upper,SlogP_VSA4,0.004549307322821645,0.003089537637754154
+Upper,SlogP_VSA5,0.00200159144299247,0.0006688026781349947
+Upper,SlogP_VSA6,0.0032126451462208927,0.0010531292178181718
+Upper,SlogP_VSA7,0.0010022552307595962,0.00036245297662226085
+Upper,SlogP_VSA8,0.00036187911202336596,0.00014145404870133027
+Upper,SlogP_VSA9,0.0,0.0
+Upper,"Subclass_1,3,5-triazines",0.00012145402363460258,6.749376027422759e-05
+Upper,"Subclass_1,4-dioxanes",0.0,0.0
+Upper,Subclass_1-hydroxy-2-unsubstituted benzenoids,1.6054246031423623e-05,1.4326949837421318e-05
+Upper,Subclass_2-benzimidazolylcarbamic acid esters,6.048574077331701e-06,7.613673062623189e-06
+Upper,Subclass_2-phenoxypropionic acid esters,0.0,0.0
+Upper,Subclass_2-phenoxypropionic acids,3.786936143058175e-06,1.2771994208406979e-05
+Upper,Subclass_8-hydroxyquinolines,0.0,0.0
+Upper,Subclass_Acrylic acids and derivatives,0.0,0.0
+Upper,Subclass_Alcohols and polyols,0.0,0.0
+Upper,Subclass_Alkaline earth metal silicates,0.0,0.0
+Upper,Subclass_Alkanes,0.0,0.0
+Upper,Subclass_Amines,6.819992908977644e-07,9.518042559162323e-07
+Upper,"Subclass_Amino acids, peptides, and analogues",0.0,0.0
+Upper,Subclass_Aminophenyl ethers,0.0,0.0
+Upper,Subclass_Aminotriazines,1.1301121264808424e-05,1.3743687220842934e-05
+Upper,Subclass_Anilides,9.650888112662726e-06,1.6252274472853455e-05
+Upper,Subclass_Aniline and substituted anilines,1.0972658874770741e-05,1.3085421155630514e-05
+Upper,Subclass_Anisoles,0.0,0.0
+Upper,Subclass_Anthraquinones,0.0,0.0
+Upper,Subclass_Aryl thioethers,0.0,0.0
+Upper,Subclass_Benzenediols,0.0,0.0
+Upper,Subclass_Benzo-p-dioxins,0.0,0.0
+Upper,Subclass_Benzofuranones,0.0,0.0
+Upper,Subclass_Benzoic acids and derivatives,0.00010463846031355963,6.836920762874102e-05
+Upper,Subclass_Benzophenones,0.0,0.0
+Upper,Subclass_Benzopyrenes,7.60152448118749e-06,8.398010410998206e-06
+Upper,Subclass_Benzoquinolines,0.0,0.0
+Upper,Subclass_Benzotriazine organothiophosphates,3.309742018642105e-05,3.452494716715914e-05
+Upper,Subclass_Benzyl halides,1.169167030578835e-05,8.372471501891545e-06
+Upper,Subclass_Beta propiolactones,0.0,0.0
+Upper,Subclass_Biphenyls and derivatives,0.0,0.0
+Upper,Subclass_Branched unsaturated hydrocarbons,0.0,0.0
+Upper,Subclass_Bromohydrins,0.0,0.0
+Upper,Subclass_Carbonyl compounds,0.0,0.0
+Upper,Subclass_Carboximidic acids,0.0,0.0
+Upper,Subclass_Carboxylic acid derivatives,2.027380728577849e-06,3.4380295555354274e-06
+Upper,Subclass_Chlorohydrins,0.0,0.0
+Upper,Subclass_Chloronaphthalenes,0.0,0.0
+Upper,Subclass_Cumenes,0.0,0.0
+Upper,Subclass_Cycloalkanes,0.0,0.0
+Upper,Subclass_Cyclohexyl halides,3.95930102740003e-05,3.4410554514754376e-05
+Upper,Subclass_Dibenzofurans,0.0,0.0
+Upper,Subclass_Diphenylethers,4.229450220370662e-05,3.302461275709952e-05
+Upper,Subclass_Diphenylmethanes,6.7951979886963e-05,4.8818660076462496e-05
+Upper,Subclass_Dithiocarbamic acid esters,0.0,0.0
+Upper,Subclass_Dithiophosphate O-esters,1.0467786905683192e-05,1.9033801314837908e-05
+Upper,Subclass_Ethers,0.0,0.0
+Upper,Subclass_Fatty acid esters,3.4452535562403976e-05,4.0792015468103745e-05
+Upper,Subclass_Fatty acids and conjugates,0.0,0.0
+Upper,Subclass_Gamma sultones,0.0,0.0
+Upper,Subclass_Guanidines,1.4440376447774719e-05,3.174992755125909e-05
+Upper,Subclass_Halobenzenes,0.0001059882551487817,6.471112816572948e-05
+Upper,Subclass_Halomethanes,0.00014248027700329883,4.086302935904733e-05
+Upper,Subclass_Halophenols,5.2510093853601164e-05,7.464261062235011e-05
+Upper,Subclass_Homoisoflavones,0.0,0.0
+Upper,Subclass_Hydrazines and derivatives,0.0,0.0
+Upper,Subclass_Hydropyridines,0.0,0.0
+Upper,Subclass_Imidazoles,0.0,0.0
+Upper,Subclass_Imidazolidines,0.0,0.0
+Upper,Subclass_Isoindolines,3.343697502716422e-05,4.479316863082374e-05
+Upper,Subclass_Metalloid oxides,0.0,0.0
+Upper,Subclass_Monoterpenoids,1.7563864835447374e-05,1.412937658723442e-05
+Upper,Subclass_Morpholines,0.0,0.0
+Upper,Subclass_N-alkylpyrrolidines,0.0,0.0
+Upper,Subclass_N-phenylureas,1.4326114812204421e-05,7.36226026544309e-06
+Upper,Subclass_Nitrobenzenes,0.0,0.0
+Upper,Subclass_Nitronaphthalenes,0.0,0.0
+Upper,Subclass_Nitrophenols,0.0,0.0
+Upper,Subclass_Olefins,0.0,0.0
+Upper,Subclass_Organic cyanides,0.0,0.0
+Upper,Subclass_Organic metal halides,0.0,0.0
+Upper,Subclass_Organic nitro compounds,0.0,0.0
+Upper,Subclass_Organic nitroso compounds,0.0,0.0
+Upper,Subclass_Organic phosphoramides,0.0,0.0
+Upper,Subclass_Organic sulfites,2.1270929231837267e-05,2.3385588902550864e-05
+Upper,Subclass_Organoarsenic compounds,0.0,0.0
+Upper,Subclass_Organolead compounds,0.0,0.0
+Upper,Subclass_Organosilicon compounds,4.118434621478824e-06,6.298099461022684e-06
+Upper,Subclass_Organotin compounds,0.0,0.0
+Upper,Subclass_Oximes,0.0,0.0
+Upper,Subclass_Pentacarboxylic acids and derivatives,0.0,0.0
+Upper,Subclass_Phenoxides,0.0,0.0
+Upper,Subclass_Phenoxy compounds,4.872338266542477e-06,4.877181910167971e-06
+Upper,Subclass_Phenoxyacetic acid derivatives,5.047046369179522e-07,1.13645031191454e-06
+Upper,Subclass_Phenylcarbamic acid esters,2.610957625959229e-06,6.477051918834616e-06
+Upper,Subclass_Phenylhydrazines,0.0,0.0
+Upper,Subclass_Phenylnaphthalenes,0.0,0.0
+Upper,Subclass_Phenylphosphonothioates,0.0,0.0
+Upper,Subclass_Phenylpropanes,2.0742961241652003e-05,2.1198815273692827e-05
+Upper,Subclass_Phenylpyrrolidines,0.0,0.0
+Upper,Subclass_Phosphate esters,1.4463737681299556e-05,1.1629763573468468e-05
+Upper,Subclass_Phosphonic acid diesters,6.214658668748325e-05,7.907464633943114e-05
+Upper,Subclass_Purines and purine derivatives,0.0,0.0
+Upper,Subclass_Pyridazines and derivatives,2.2579329554864587e-07,3.0334302195359225e-07
+Upper,Subclass_Quaternary ammonium salts,0.0,0.0
+Upper,Subclass_Sulfuric acid esters,0.0,0.0
+Upper,Subclass_Terphenyls,0.0,0.0
+Upper,Subclass_Thiophosphoric acid esters,9.013000905691771e-05,4.7015964417209493e-05
+Upper,Subclass_Toluenes,0.0,0.0
+Upper,Subclass_Triazoles,6.85418730664574e-06,4.901589937349975e-06
+Upper,Subclass_Trifluoromethylbenzenes,0.0,0.0
+Upper,Subclass_Vinyl bromides,0.0,0.0
+Upper,Subclass_Vinyl chlorides,0.00011762426650355074,6.769342974801708e-05
+Upper,Subclass_Vinyl fluorides,0.0,0.0
+Upper,Subclass_Xylenes,0.00028211059980023587,0.000144519404719284
+Upper,Superclass_Benzenoids,0.000813023446260021,0.0004479917984345033
+Upper,Superclass_Homogeneous metal compounds,0.00013642617329901412,0.0001254087548721745
+Upper,Superclass_Homogeneous non-metal compounds,4.038971373329387e-05,2.8262944596554575e-05
+Upper,Superclass_Hydrocarbons,0.0,0.0
+Upper,Superclass_Lipids and lipid-like molecules,3.7431924870310885e-05,2.4252365717228783e-05
+Upper,Superclass_Mixed metal/non-metal compounds,0.0,0.0
+Upper,"Superclass_Organic 1,3-dipolar compounds",0.0,0.0
+Upper,Superclass_Organic acids and derivatives,0.00019133652462397142,9.923631185810714e-05
+Upper,Superclass_Organic nitrogen compounds,4.857949056489165e-06,9.808009395807759e-06
+Upper,Superclass_Organic oxygen compounds,2.762766511098354e-05,2.0156296279263752e-05
+Upper,Superclass_Organic salts,0.0,0.0
+Upper,Superclass_Organohalogen compounds,0.00031914542959885357,0.0001601891428116916
+Upper,Superclass_Organoheterocyclic compounds,0.00011517241394816095,5.670299762133026e-05
+Upper,Superclass_Organometallic compounds,6.757449932584733e-06,1.0777751323047436e-05
+Upper,Superclass_Organosulfur compounds,0.0,0.0
+Upper,Superclass_Phenylpropanoids and polyketides,0.0,0.0
+Upper,TPSA,0.001878742938712576,0.0007037731372045345
+Upper,Type_Air,0.0,0.0
+Upper,Type_Inland water,0.0,0.0
+Upper,Type_Marine Waters,0.0,0.0
+Upper,Type_Soil,0.0,0.0
+Upper,VSA_EState1,0.006459067420418627,0.0018866115445822524
+Upper,VSA_EState10,0.1326023268602698,0.04046643917138347
+Upper,VSA_EState2,0.003673653806281643,0.0009514416107324318
+Upper,VSA_EState3,0.002660694799475371,0.0005138531910542278
+Upper,VSA_EState4,0.009001633561624856,0.005374108680535551
+Upper,VSA_EState5,0.002569152334201267,0.0005533966804048128
+Upper,VSA_EState6,0.0032356962260995667,0.0006750354239172275
+Upper,VSA_EState7,0.001461473206305547,0.0003306610781485172
+Upper,VSA_EState8,0.0017056975343252624,0.0004841244236779365
+Upper,VSA_EState9,0.0009157931393274421,0.0005689969135059835

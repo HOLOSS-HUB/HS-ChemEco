@@ -17,15 +17,15 @@ Environmental Prices are metrics to quantify the social costs of pollution, publ
 
 ## Tool Features
 
-🌱 Predict toxicity quartiles from SMILES
+🌱 Predicts Environmental Price values from SMILES
 
-🌊 Supports multiple environmental types:
+🌊 Supports multiple environmental emission types:
   - Air
   - Soil
   - Inland water
   - Marine Waters
     
-🔬 Uses molecular descriptors + ensemble Random Forests
+🔬 Uses molecular descriptors + ensemble Random Forests algorithms
 
 📉 Provides combined error estimates for each prediction
 

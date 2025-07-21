@@ -9,7 +9,7 @@ Environmental Prices are metrics to quantify the social costs of pollution, publ
 
 
 <div align="center">
-  <img src="Supporting Information/Graphical_Abstract.png" alt="image" width="433" height="208">
+  <img src="Supporting Information/Graphical_Abstract.png" alt="image" width="433" height="188">
 </div>
 
 <div align="center">

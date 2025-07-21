@@ -16,6 +16,7 @@ Environmental Prices are metrics to quantify the social costs of pollution, publ
 ## 🚀 Features
 
 🌱 Predict toxicity quartiles from SMILES
+
 🌊 Supports multiple environmental types:
   - Air
   - Soil
@@ -23,6 +24,7 @@ Environmental Prices are metrics to quantify the social costs of pollution, publ
   - Marine Waters
     
 🔬 Uses molecular descriptors + ensemble Random Forests
+
 📉 Provides combined error estimates for each prediction
 
 

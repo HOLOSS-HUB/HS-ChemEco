@@ -1,0 +1,35 @@
+ChemEco Logic Code Overview
+
+Step 1: Data Preparation
+1.1 Mount storage system and set up directories for input and output.
+1.2 Load the EP dataset.
+1.3 Apply one-hot encoding to categorical taxonomy features.
+1.4 Remove numerical features with very low variance, using a fixed threshold.
+1.5 Impute missing values using the mean and normalize features:
+ - Apply a quantile transformation to the target variables.
+
+Step 2: Define the Ensemble Model Constructor
+2.1 Specify a function that returns a Random Forest regressor with fixed hyperparameters, including depth, feature cap, and number of trees.
+2.2 Allow model reproducibility by supporting random seeds.
+
+Step 3: Ensemble Model Training for Each Target
+For each of the target EP endpoints (Lower, Median, Upper):
+3.1 Initialize an empty list to store predictions from each seed.
+3.2 For every seed in the ensemble list:
+ - Train a model using the current target and sample weights.
+ - Predict the output on all samples and store the result.
+3.3 Compute the mean and standard deviation of predictions across models.
+3.4 Add the mean EP predictions as a new feature, enabling a chained prediction structure.
+
+Step 4: Postprocessing of Predictions
+4.1 Apply inverse transformations to return predictions to their original scale.
+4.2 Enforce domain-specific constraints:
+ - Ensure all predictions are non-negative.
+ - Enforce ordered relationships such that the Lower value is less than or equal to the Median, and the Median is less than or equal to the Upper value.
+
+Step 5: Computation of Percentage Uncertainty
+For each target:
+5.1 Calculate the percentage error by dividing the prediction standard deviation by the absolute value of the predicted mean and multiplying by 100.
+5.2 Handle any invalid values by replacing them with zero.
+
+Step 6: Save Outputs

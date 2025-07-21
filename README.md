@@ -24,8 +24,4 @@ Environmental Prices are metrics to quantify the social costs of pollution, publ
 - 🔬 Uses molecular descriptors + ensemble Random Forests
 - 📉 Provides combined error estimates for each prediction
 
----
-
-## 📦 Requirements
-
 

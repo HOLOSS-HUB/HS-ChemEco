@@ -1,0 +1,25 @@
+## Sample Code for ML Model Design
+
+Due to proprietary restrictions, portions of the source code cannot be disclosed to the public. However, to ensure transparency, we have made available:
+
+- All the validation results and evaluation metrics relevant to the study (in folder Results); 
+- A full pseudocode that explains the main algorithmic logic and experimental design (in folder Scripts); 
+- A list of all the features, hyperparameters, and data preprocessing steps (in folder Supporting Information)
+
+Questions regarding access or implementation details can be directed to the corresponding authors. The example scripts for algorithm development are in the article’s online repository, in the folder Scripts. 
+
+Scripts Overview
+1. mol-conversion.py
+Script for molecular data processing and conversion. It transforms molecular structures contained within the dataset into formats applicable for ML models. 
+•	Converting molecular data (SMILES strings) into descriptor format.
+•	Handling molecule-based transformations, ensuring that representations are compatible.
+•	The output of this script is used as input features for subsequent model training and evaluation.
+
+2. rdkit-calc.py
+Script for RDKit descriptor calculation, based on SMILES input from mol-conversion.py. Framework is the same as presented in previous work of Ferraz-Caetano et al2.
+
+3. pseudo-build-augm-model.py
+Pseudocode for a machine learning workflow to produce EP predictive models with integrated uncertainty estimation. After loading the raw dataset and data storage, categorical and numerical features are extracted and preprocessed. A variance-based approach is used to choose features following the encoding of categorical variables, as a quantile transformer scales the target variables. An ensemble modeling approach is used, in which several models are trained using various random seeds for each target variable. The mean prediction and related uncertainty are calculated by combining the predictions of these models. Each model’s EP output scenario informs the next, and these predictions are used iteratively in a chained fashion. Prediction scores and uncertainties are converted back to the initial EP scale (regression models are trained for percentage-based uncertainty estimates).
+
+4. pseudo-model-training-scenarios.py 
+This pseudo-algorithm presents the framework for training and evaluating ML models in three different data regimes: real EP only learning, augmented + reinforced learning, and augmented-only learning. During preprocessing, target variables are scaled, and categorical features are encoded. Synthetic data is also flagged for further analysis.  The algorithm samples real data into training and testing splits, while synthetic data is only loaded for the training set. Models use a chain training strategy, with each target's EP prediction being added to the feature set. Predictions are saved for future comparison, and performance metrics with feature importances are recorded.

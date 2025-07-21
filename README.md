@@ -29,4 +29,6 @@ Environmental Prices are metrics to quantify the social costs of pollution, publ
 
 📉 Provides combined error estimates for each prediction
 
+---
 
+## ℹ️ GitHub Page for Article Review (will be made public after review)

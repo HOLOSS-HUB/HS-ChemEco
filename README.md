@@ -15,7 +15,7 @@ Environmental Prices are metrics to quantify the social costs of pollution, publ
 
 ---
 
-## 🚀 Features
+## Tool Features
 
 🌱 Predict toxicity quartiles from SMILES
 

@@ -35,12 +35,20 @@ progress = initialize_progress_bar(total=repeats * rounds * len(targets))
 
 # === (AUGMENTED + REINFORCED) TRAINING ===
 for repeat in range(repeats):
+# IMPORTANT Test set contains only real compounds
+# Synthetic samples are used exclusively for training
+
+train_combined = data_utils.combine_indices(train_real, synthetic_idx)
     train_real, test_real = data_utils.split_indices(real_idx, ratio=0.8, seed=repeat)
     train_combined = data_utils.combine_indices(train_real, synthetic_idx)
 
     X_train, Y_train = X[train_combined], Y[train_combined]
     X_test, Y_test = X[test_real], Y[test_real]
-    weights = data_utils.compute_weights(data, train_combined)
+    weights = data_utils.compute_weights(
+        data,
+        train_combined,
+        real_weight=1.0,
+        synthetic_weight=0.5)
 
     for round in range(rounds):
         X_train_chain, X_test_chain = X_train.copy(), X_test.copy()
@@ -132,8 +140,14 @@ for repeat in range(repeats):
 
     Y_pred_train = model.predict(X_train)
     Y_pred_test = model.predict(X_test)
-
-    metrics = evaluation_utils.compute_metrics(Y_train, Y_pred_train, Y_test, Y_pred_test)
+    
+    # Monitor overfitting by tracking train–test performance gap
+    metrics = evaluation_utils.compute_metrics(
+        y_train, y_pred_train,
+        y_test, y_pred_test)
+    
+    evaluation_utils.log_train_test_gap(metrics)
+    
     realonly_metrics.append({**metrics, "repeat": repeat + 1})
 
     importances = model_utils.average_feature_importance(model)

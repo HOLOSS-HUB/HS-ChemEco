@@ -46,8 +46,12 @@ for repeat in range(repeats):
         X_train_chain, X_test_chain = X_train.copy(), X_test.copy()
         predictions_train, predictions_test = [], []
 
-        for i in range(len(targets)):
-            model = model_utils.build_model()
+        for i in range(len(targets)): #Example for the Optmized RF algorithm
+            model = model_utils.build_model(
+                bootstrap=True,
+                n_estimators=450,
+                max_features=350,
+                max_depth=150)
             y_train, y_test = Y_train[:, i], Y_test[:, i]
 
             model.fit(X_train_chain, y_train, sample_weight=weights)

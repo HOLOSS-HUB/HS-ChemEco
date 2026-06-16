@@ -1,0 +1,5 @@
+Metric,Test,Statistic,p_value
+AD_distance_vs_AbsError_QT_Mean,Spearman correlation,-0.07137246589907673,0.3667698643232976
+AD_distance_vs_Uncertainty_QT_Mean,Spearman correlation,0.23966785408502214,0.0021280862359372116
+AbsError_QT_Mean_inside_vs_outside,Mann-Whitney U,145.0,0.8284640748408864
+Uncertainty_QT_Mean_inside_vs_outside,Mann-Whitney U,201.0,0.56130664826317

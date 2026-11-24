@@ -4,7 +4,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs13321--026--01286--3-blue)](https://doi.org/10.1186/s13321-026-01286-3)
 [![Journal](https://img.shields.io/badge/Journal-Cheminformatics-005571)](https://link.springer.com/journal/13321)
 [![Open Access](https://img.shields.io/badge/Open%20Access-Article-orange.svg)](https://doi.org/10.1186/s13321-026-01286-3)
-[![License](https://img.shields.io/github/license/HOLOSS-HUB/HS-ChemEco)](https://github.com/HOLOSS-HUB/HS-ChemEco)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)](https://scikit-learn.org/)
 [![Online Tool](https://img.shields.io/badge/Online%20Tool-HS--ChemEco-2ea44f)](https://www.holoss.com/tools/HSChemEco.html)
@@ -89,6 +89,15 @@ If you use HS-ChemEco, its methodology, code, or predictions in your research, p
   url     = {https://doi.org/10.1186/s13321-026-01286-3}
 }
 ```
+---
+
+## License
+
+HS-ChemEco is released under the [MIT License](LICENSE).
+
+The source code may be freely used, modified, and distributed,
+including for commercial purposes, provided that the original
+copyright and licence notice are retained.
 
 ---
 

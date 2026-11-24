@@ -13,7 +13,7 @@ Environmental Prices are metrics to quantify the social costs of pollution, publ
 </div>
 
 <div align="center">
-  <h2>⚙️ <a href="[http://52.47.208.199:8000/](https://www.holoss.com/tools/HSChemEco.html)"> Online Tool Link</a></h2>
+  <h2>⚙️ <a href="https://www.holoss.com/tools/HSChemEco.html"> Online Tool Link</a></h2>
 </div>
 
 

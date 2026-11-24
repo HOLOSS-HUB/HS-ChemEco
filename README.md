@@ -6,7 +6,6 @@
 [![Open Access](https://img.shields.io/badge/Open%20Access-Article-orange.svg)](https://doi.org/10.1186/s13321-026-01286-3)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)](https://scikit-learn.org/)
 [![Online Tool](https://img.shields.io/badge/Online%20Tool-HS--ChemEco-2ea44f)](https://www.holoss.com/tools/HSChemEco.html)
 
 HS-ChemEco is a machine learning-powered tool that predicts Environmental Price (EP) values (`Lower`, `Median`, `Upper`) for chemical substances based on their SMILES representation and environmental emission medium. The model provides **per-sample uncertainty estimates** by combining ensemble standard deviation and benchmark R²-based error.
